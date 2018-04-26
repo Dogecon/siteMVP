@@ -1,0 +1,38 @@
+<!-- only bother if you need to change the top bar logo -->
+<style>
+  .site-header a.navbar-brand, .site-nav .site-nav-links .nav-item > a {
+    color:{{page.nav_txt_color}};
+  }
+  header.site-header {
+    background-color: {{ page.nav_bkg_color }};
+  }
+</style>
+<header class="container-fluid site-header" style="background-color:{{page.nav_color}};">
+  <nav class="navbar navbar-full navbar-light site-nav">
+    <a class="navbar-brand site-nav-brand" href="{{ site.baseurl }}/">
+      <img src="/images/Profile.png" alt="{{ site.title }}">
+      <div class="site-nav-brand-title">{{ site.title }}</div>
+    </a>
+
+    <ul class="nav navbar-nav pull-md-right site-nav-links">
+      <li class="nav-item">
+        <a href="/mainpages/dogecon" class="nav-link">What's Dogecon?</a>
+      </li>
+      <li class="nav-item">
+        <a href="/mainpages/aboutus" class="nav-link">Who are We?</a>
+      </li>
+      <li class="nav-item">
+        <a href="/mainpages/philosophy" class="nav-link">Philosophy</a>
+      </li>
+
+      <li class="nav-item">
+        <a href="/mainpages/engage" class="nav-link">Get Involved</a>
+      </li>
+      </li>
+      <li class="nav-item">
+        <a href="http://medium.com/dogecon" class="nav-link">Blog</a>
+      </li>
+      </li>
+    </ul>
+  </nav>
+</header>
