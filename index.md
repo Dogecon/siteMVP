@@ -1,9 +1,9 @@
 ---
 layout: page
-bkg_color: rgba(176,43,181,0.8)
-txt_color: rgb(1, 47, 107)
-nav_color: rgb(244, 124, 44)
-nav_txt_color: rgb(1, 47, 107)
+bkg_color: rgb(60,176,67)
+txt_color: rgb(255,229,153)
+nav_color: rgb(60,176,67)
+nav_txt_color: rgb(255,229,153)
 ---
 
 # Dogecon Main Page
