@@ -8,14 +8,27 @@ nav_txt_color: rgb(255,229,153)
 
 
 ### [Our Mission](#mission)
+### [Decentralized Dance Party](#ddp)
 ### [Transparency and Financial Inclusivity](#finance)  
 
 <h2 id='mission'> Our Mission </h2>
 
 Dogecon 2018 started as a beautiful meme dream around the end of this past January, with a group of Vancouver decentralists imagining a complex and innovative celebration of this Year of the Doge. Everytime we hit a crossroads between doing this the normal way, and “forking” in a more radically playful direction, we tried to stay true to the latter path.
 
-From inception, Dogecon’s organizers have prioritized financial inclusivity and accessibility. The spirit of Dogecoin has always been about sharing the wealth, and we’ve seen the cryptocurrency sector swell over the past year into a formidable global market that is impossible for even legacy finance institutions to ignore. We reach out to enlist your help in ensuring that crypto culture is shaped by communities, for communities; your potential sponsorship helps us keep public ticket costs low, and makes it easier to get all our honoured guests to Vancouver for this magical weekend experience.
+{:.shrinkpic}
+![Moses Shibe](/images/mosesdoge.jpg)
+  <figcaption>Found online, contact us if you created this amazing meme! </figcaption>
+<br>
 
+<h2 id='ddp'> Decentralized Dance Party </h2>
+
+For many members of the Vancouver decentralist community, as well as a network of folks scattered across the globe, the origins of our passion for decentralization lay with the [Decentralized Dance Party](http://www.theddp.com).
+
+{:.shrinkpic}
+![DDP Time](/images/partydoge.jpeg)
+<br>
+
+For us, the 'social experiment' of the DDP has indeed shown that it’s possible to unite thousands of people of all ages, cultures and social groups in order to peacefully celebrate our Common Humanity. It is a unique force that has the power to overcome negative conditioning and unify and inspire earth’s inhabitants in ways never before imagined. This believe and revolutionary joy drives all that we build at Carpe Lunam Events Association, and it is at the heart and soul of Dogecon.
 
 <h2 id='finance'> Transparency and Financial Inclusivity </h2>
 
