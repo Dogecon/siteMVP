@@ -12,7 +12,7 @@ url: "http://dogecon.party"
 description: Dogecon website
 
 # the subpath of your site, e.g. /blog
-baseurl: ""
+baseurl: "/siteMVP"
 twitter_username: ""
 github_username:  ""
 linkedin_username: ""
