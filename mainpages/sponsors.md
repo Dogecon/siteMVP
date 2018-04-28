@@ -16,7 +16,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
     <div class="tile">
         <h3> Presearch</h3>
         <img src="/images/logos/presearch.jpg" />
-        </p>
+        <br>
         <p>We are honoured to be working with Presearch to shape the whimsical beauty of Dogecon, and we thank them for their title sponsorship, which enables the State of the Doge Address, DogeQuest: Hunt for the One True Chain, and other integral aspects of this weekend. We've known Colin and Shannon since last year, and been consistently inspired by their commitment to the core values driving the decentralization community.</p>
 
         <p><a href="https://www.presearch.io/">Presearch</a> is an open, decentralized search engine that rewards community members with Presearch Tokens for their usage, contribution to, and promotion of the platform. In a world where one company controls 77% of all searches, influencing trillions of dollars in spending, shaping perceptions and effectively acting as the primary gatekeeper to the Internet, a new, open and community-driven search engine is a necessity.</p>
@@ -45,7 +45,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
     <div class="tile">
         <h3> BitNational</h3>
         <img src="/images/logos/bitnational.jpg" />
-        </p>
+        <br>
         <p><a href="http://bitnational.com//">BitNational</a> helps make exchanging Bitcoin easy. Buy or sell Bitcoin instantly using their vast and conveniently located network of ATMs spread across western Canada in Vancouver, Richmond, Surrey, Edmonton and Calgary.</p>
     </div>
 </div>
@@ -56,7 +56,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
     <div class="tile">
         <h3> Samuel Osei Law Corporation</h3>
         <img src="/images/logos/samosei.jpg" />
-        </p>
+        <br>
         <p><a href="https://soseilaw.com/">Sam Osei Law Corporation</a>’s clients range from individuals to public companies and his firm has a proven track record in acting for them in both business law and blockchain law. They operate a dynamic practice, able to offer contractual, advisory and litigation services. They operate in the blockchain ecosystem, not only as advisors, but as participants. Their intimate understanding of the space is the differentiating factor that makes them leaders in this field.</p>
 
     </div>
