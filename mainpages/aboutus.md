@@ -8,7 +8,6 @@ nav_txt_color: hsla(48, 100%, 80%, 1)
 
 ### [Carpe Lunam Events Assocation](#lunam)
 ### [Dogecon Organizing Team](#team)
-### [Our Awesome Sponsors](#sponsors)  
 
 <h2 id='lunam'> Carpe Lunam Events Assocation </h2>
 
@@ -37,9 +36,3 @@ The following is a short list of the core team involved in this pursuit: we welc
 
 <br>
 <br>
-
-<h2 id='sponsors'> Our Awesome Sponsors </h2>
-
-The spirit of Dogecoin has always been about sharing the wealth, and we’ve seen the cryptocurrency sector swell over the past year into a formidable global market that is impossible for even legacy finance institutions to ignore. Within this time of "Great Wealth Transfer," we believe that companies and organizations can help equalize access for all individuals, and we've teamed up with amazing sponsors who share that vision. We give much thanks to our supporting partners, who have helped ensure that crypto culture is shaped by communities, for communities. Their generosity will help us keep public ticket costs low, and make it easier to get all our honoured guests to Vancouver for this magical weekend experience.
-
-[insert logos heeeeere]
