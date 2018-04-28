@@ -1,9 +1,9 @@
 ---
 layout: page
-bkg_color: rgb(60,176,67)
-txt_color: rgb(255,229,153)
-nav_color: rgb(60,176,67)
-nav_txt_color: rgb(255,229,153)
+bkg_color: hsla(124, 30%, 50%, 1)
+txt_color: hsla(48, 100%, 80%, 1)
+nav_color: hsla(124, 30%, 50%, 1)
+nav_txt_color: hsla(48, 100%, 80%, 1)
 ---
 
 ## Main Events of Dogecon Vancouver

@@ -33,10 +33,35 @@ $hdc-third: #29D9C2;
 $hdc-fourth: lighten(#BDF271, 15%);
 $hdc-fifth: lighten(#FFFFA6, 15%);
 
+// ========== DOGECON STUFF ============
+
 //Dogecon Colors
-$theme-color1: rgb(60, 176, 67);
-$theme-color2: rgb(255, 229, 153);
+$theme-color1: hsla(124, 30%, 50%, 1);
+$theme-color2: hsla(48, 100%, 80%, 1);
+$theme-color3: rgb(53, 53, 224);
+$theme-line-height: 1.4em;
+$theme-letter-spacing: 1px;
+$theme-h-font: monospace;
 $space-url: url(../images/spacebg.jpg);
+
+.tiles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    .tile {
+        min-width: 120px;
+        max-width: 375px;
+        margin: 10px 15px;
+        h3 {
+            margin-bottom: 0px;
+            text-align: center;
+            font-weight: bolder;
+        }
+
+    }
+}
+
+// ========== END OF DOGECON STUFF =========
 
 // Width of the content area
 $content-width:    800px;
