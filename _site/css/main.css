@@ -15,7 +15,8 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 1.5rem; }
+  margin-bottom: 1.5rem;
+  font-weight: 400; }
 
 p {
   font-size: 1.2rem;
@@ -38,7 +39,8 @@ img {
     width: 600px; }
 
 figcaption {
-  text-align: center; }
+  text-align: center;
+  font-weight: 300; }
 
 /**
  * Figures
@@ -191,6 +193,7 @@ html, body {
     .site-nav .site-nav-brand:hover {
       color: #59a65e; }
     .site-nav .site-nav-brand .site-nav-brand-title {
+      font-weight: 500;
       font-size: 2rem;
       line-height: 2rem;
       margin: auto 0; }
