@@ -23,8 +23,6 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
 
         <p>Presearch has an innovative go-to-market strategy to target the most frequent searchers - web workers - and gain early adoption, on our way to releasing future versions of the open source platform that will utilize a blockchain-based index, curated by the community.</p>
     </div>
-    <div class="tile">
-    </div>
 </div>
 
 ## Moon Tier Sponsors
@@ -37,11 +35,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <p><a href="https://ubiqsmart.com/">Ubiq</a> is a decentralized platform which allows the creation and implementation of smart contracts and decentralized applications. Built upon an improved Ethereum codebase, the Ubiq blockchain acts as a large globally distributed ledger and supercomputer, allowing developers to create decentralized and automated solutions to thousands of tasks which today are carried out by third party intermediaries.</p>
 
         <p>With a diverse range of specializations and vast experience in both blockchain and traditional financial services,the Ubiq development team is committed to providing the most stable, flexible, and bug-free platform available for the development of enterprise applications. This is accomplished through extensive observation, testing, and improvements to the various blockchain technologies currently available.</p>
-
     </div>
-</div>
-
-<div class="tiles">
     <div class="tile">
         <h3> BitNational</h3>
         <img src="/images/logos/bitnational.jpg" />
