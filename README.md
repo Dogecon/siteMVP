@@ -1,3 +1,3 @@
-# Fork of stuckincyberspace for Dogecon - Creative Commons BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/us/
+# Fork of stuckincyberspace for Dogecon - this website is CC0 1.0 Universal - <http://creativecommons.org/publicdomain/zero/1.0/>
 
 Contact carpelunam AT g MAILdot COM with any q's, shibefriends.
