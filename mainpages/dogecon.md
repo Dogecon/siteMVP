@@ -10,7 +10,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 
 {:.shrinkpic}
-![Dogecon Painting by Tanna Po](images/photos/painting cropped.jpg)
+![Dogecon Painting by Tanna Po](images/photos/dogepainting_croppedsquare.png)
   <figcaption>Original painting by Tanna Po, 2018. </figcaption>
 <br>
 
