@@ -2,8 +2,8 @@
 layout: page
 bkg_color: hsl(202, 99%, 59%, 1)
 txt_color: hsl(275, 100%, 25%, 1)
-nav_color: hsl(51, 100%, 50%, 1)
-nav_txt_color: hsl(51, 100%, 50%, 1)
+nav_color: hsl(108, 100%, 81%, 1)
+nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
 
 ## Carpe Lunam Events Association is pleased to pull back the curtain to reveal our plans for Dogecon 2018, an absurdist celebration of cryptoeconomics and meme culture in Vancouver, BC.
