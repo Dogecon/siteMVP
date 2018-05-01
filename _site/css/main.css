@@ -5,8 +5,8 @@
  */
 html, body {
   font: 200 1rem/1.5 "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #ffeb99;
-  background-color: #59a65e; }
+  color: #dc143c;
+  background-color: #2db0fe; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -77,12 +77,12 @@ h2 {
  * Links
  */
 a {
-  color: #3535e0;
+  color: #ffeb99;
   text-decoration: none; }
   a:visited {
-    color: #4b4be3; }
+    color: #ffd700; }
   a:hover {
-    color: #ffeb99;
+    color: #3535e0;
     text-decoration: underline; }
 
 /**
@@ -191,7 +191,7 @@ html, body {
     flex-flow: nowrap;
     justify-content: flex-start; }
     .site-nav .site-nav-brand:hover {
-      color: #59a65e; }
+      color: #2db0fe; }
     .site-nav .site-nav-brand .site-nav-brand-title {
       font-weight: 500;
       font-size: 2rem;
@@ -208,7 +208,7 @@ html, body {
     .site-nav .site-nav-links .nav-item {
       align-self: center;
       padding: 5px;
-      background-color: #59a65e;
+      background-color: #2db0fe;
       border-radius: 5px;
       margin: 5px; }
     .site-nav .site-nav-links .nav-item > a {

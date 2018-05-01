@@ -9,7 +9,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 ### [Carpe Lunam Events Assocation](#lunam)
 ### [Dogecon Organizing Team](#team)
 
-<h2 id='lunam'> Carpe Lunam Events Assocation </h2>
+<h2 id='lunam'> Carpe Lunam Events Association </h2>
 
 Carpe Lunam Events Association was formed as a nonprofit member-funded society in British Columbia to serve as the seat of Dogecon’s operations when it was wisely suggested to us that we might not want to just wing it anarchically on this large of a scale. This society’s constitution ([PDF warning](/images/carpelunamconstitution.pdf)) outlines our shared purposes for this and future projects:
 * to organize community events which promote collaborative community dialogue around intentional and ethical design in the disruptive technology field;
