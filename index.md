@@ -11,6 +11,8 @@ nav_txt_color: hsla(48, 100%, 80%, 1)
 {:.shrinkpic}
 ![Much Dogecon](/images/posters/dogecon_event.png)
   <figcaption>Our amazing first save-the-date image, by Cameron Gray</figcaption>
+  <br>
+  <br>
 
 ### Dogecon will be a playful and participatory decentralist community celebration during Summer Solstice, with core events occurring from the evening of Thursday June 21 to the late hours of Sunday June 24.
 
