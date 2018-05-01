@@ -20,6 +20,12 @@ Check out our "Get Involved" page for more information on collaborating with us!
 
 <h2 id='team'> Dogecon Organizing Team </h2>
 
+{:.shrinkpic}
+![The Dogecon Team](/images/photos/dogeconteam.png)
+  <figcaption>Some of our hardworking shibes - Sophia, Alex, Arman, Chelsea, & Ludmila. </figcaption>
+<br>
+
+
 The following is a short list of the core team involved in this pursuit: we welcome outreach around collaborating with us!
 * **Gary Lachance** has held the beginning threads of Dogecon in his heart for quite some time, and he guides our spirits in this pursuit as in so many others; he’ll be masterminding the DDP and State of the Doge Address.
 * **Chelsea Palmer** has been furiously whiteboarding and Trello-listing this instantiation of Dogecon for months now, and she’ll be designing DOGETalks and the Midsummer Night’s Meme Rap Affair.
