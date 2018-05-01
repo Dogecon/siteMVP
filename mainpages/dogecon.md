@@ -8,9 +8,11 @@ nav_txt_color: hsla(48, 100%, 80%, 1)
 
 ## Carpe Lunam Events Association is pleased to pull back the curtain to reveal our plans for Dogecon 2018, an absurdist celebration of cryptoeconomics and meme culture in Vancouver, BC.
 
+
 {:.shrinkpic}
-![Much Dogecon](/images/posters/dogecon_event.png)
-  <figcaption>Our amazing first save-the-date image, by Cameron Gray</figcaption>
+![Dogecon Painting by Tanna Po](images/photos/painting cropped.jpg)
+  <figcaption>Original painting by Tanna Po, 2018. </figcaption>
+<br>
 
 ### Dogecon will be a playful and participatory decentralist community celebration during Summer Solstice, with core events occurring from the evening of Thursday June 21 to the late hours of Sunday June 24. A breakdown of these can be found on pages 5-7 of this brochure.
 
