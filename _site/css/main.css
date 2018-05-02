@@ -5,8 +5,8 @@
  */
 html, body {
   font: 200 1rem/1.5 "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #dc143c;
-  background-color: #2db0fe; }
+  color: #4a0080;
+  background-color: #2fb2fe; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -77,12 +77,12 @@ h2 {
  * Links
  */
 a {
-  color: #ffeb99;
+  color: yellow;
   text-decoration: none; }
   a:visited {
-    color: #ffd700; }
+    color: yellow; }
   a:hover {
-    color: #3535e0;
+    color: #4a0080;
     text-decoration: underline; }
 
 /**
@@ -147,7 +147,7 @@ pre {
     margin: 10px 15px; }
     .tiles .tile h3 {
       font-size: 2rem;
-      margin-bottom: 0px;
+      margin-bottom: 8px;
       text-align: center;
       font-weight: bolder; }
     .tiles .tile img {
@@ -191,12 +191,13 @@ html, body {
     flex-flow: nowrap;
     justify-content: flex-start; }
     .site-nav .site-nav-brand:hover {
-      color: #2db0fe; }
+      color: #2fb2fe; }
     .site-nav .site-nav-brand .site-nav-brand-title {
       font-weight: 500;
       font-size: 2rem;
       line-height: 2rem;
-      margin: auto 0; }
+      margin: auto 0;
+      color: yellow; }
     .site-nav .site-nav-brand img {
       padding-right: 1rem;
       height: 6rem; }
@@ -208,11 +209,11 @@ html, body {
     .site-nav .site-nav-links .nav-item {
       align-self: center;
       padding: 5px;
-      background-color: #2db0fe;
+      background-color: #2fb2fe;
       border-radius: 5px;
       margin: 5px; }
     .site-nav .site-nav-links .nav-item > a {
-      color: #ffeb99;
+      color: #4a0080;
       height: inherit; }
 
 @media screen and (min-width: 800px) {
@@ -234,7 +235,7 @@ html, body {
         border-radius: 0;
         padding: 0.5rem 0.5rem 2px;
         margin: 0 0.3rem;
-        color: #ffeb99; }
+        color: #4a0080; }
         .site-nav .site-nav-links .nav-item button, .site-nav .site-nav-links .nav-item button:active, .site-nav .site-nav-links .nav-item button:hover, .site-nav .site-nav-links .nav-item button:focus,
         .site-nav .site-nav-links .nav-item > a,
         .site-nav .site-nav-links .nav-item > a:active,
@@ -244,8 +245,8 @@ html, body {
         .site-nav .site-nav-links .nav-item button:hover, .site-nav .site-nav-links .nav-item button:focus,
         .site-nav .site-nav-links .nav-item > a:hover,
         .site-nav .site-nav-links .nav-item > a:focus {
-          border-bottom: 3px solid #ffeb99;
-          color: #ffeb99; }
+          border-bottom: 3px solid #4a0080;
+          color: #4a0080; }
       .site-nav .site-nav-links:not(:last-child) {
         margin-right: 20px; } }
 .site-small-jumbo {
