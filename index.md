@@ -6,7 +6,9 @@ nav_color: hsl(108, 100%, 81%, 1)
 nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
 
-## Carpe Lunam Events Association is pleased to pull back the curtain to reveal our plans for Dogecon 2018, an absurdist celebration of cryptoeconomics and meme culture in Vancouver, BC.
+## Dogecon Vancouver 2018 is a weekend celebration of the social layer of crypto culture, embracing memes and tweetstorms as the current pinnacle of human art and attention. Using the Year of the Doge as a launchpad, we'll engage in a range of participatory experiences from carefree and whimsical Partying to deep dialectical dialogues.
+
+### Dogecon will be the crypto *unconvention*, where play and art are granted as much reverence as math and hardware. We'll be livestreaming everything, with ample opportunities for our attendees to make their voices heard, from Speed Debates to Crypto Confessional Booths. Come roll up your sleeves and get zany with the decentralist scene!
 
 {:.shrinkpic}
 ![Much Dogecon](/images/posters/dogecon_event.png)
@@ -14,8 +16,16 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
   <br>
   <br>
 
-### Dogecon will be a playful and participatory decentralist community celebration during Summer Solstice, with core events occurring from the evening of Thursday June 21 to the late hours of Sunday June 24.
+Early confirmed speakers include [Bob Summerwill](http://www.bobsummerwill.com), [Brittany Kaiser](http://www.newsweek.com/who-brittany-kaiser-ex-cambridge-analytica-director-warns-facebook-leak-much-889609), and [Jaya Klara Brekke](www.jayapapaya.net/); artists including [Markus Zimmermann](https://riat.at/people/markus-zimmermann/) and [David Foox](www.bitxbitmovie.com/); and live media coverage from [Dogecoin Millionaire](https://twitter.com/sabotagebeats) and [#Blocktalk](https://www.youtube.com/channel/UCpfB0lyoKDCKX8wZ7a-K-dw). We have tons more surprises which will be announced in due time -- for now, we're controlling the flow of information to tantalize and inspire...
 
-#### Swaths of time in between will exist as a well-documented but relatively permissionless culture crawl showcase of the thriving tech, arts, and culture scene of Vancouver, with lots of chances to enjoy the summer scenery. Overall, the four day weekend will build upon the “unconference” event format to craft a participatory “unconvention,” with special attention paid to elements of gamification, performativity, and whimsical creativity.
+### IMPORTANT DATES
 
-Check out the site links above for more information on this whimsical convention!
+* **May 4th** Public blog and Doge Meme Drive launch
+* **May 11th** Revelation 1.0 of Speakers, Artists, and musicians
+* **May 15th** Tickets go on sale, first come first serve
+* **May 15th** Submissions open for *What Do You Meme Art Show*
+* **May 21st** Team registration opens for *DogeQuest: Hunt for the One True Chain*
+* **June 1st** Ticket prices increase - get em while they're hot, limited quantities!
+* **June 13th** Submissions close for *What Do You Meme Art Show*
+* **June 14th** Team registration closes for *DogeQuest: Hunt for the One True Chain*
+* **June 18th** If not sold out, ticket prices moon! Last Chance, Doges!
