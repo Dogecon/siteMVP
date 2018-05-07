@@ -42,7 +42,7 @@ We will explore the theoretical underpinnings of aspirational economic design, w
   <figcaption>Event poster by Tanna Po.</figcaption>
   <br>
 
-Rather than a hackathon, Dogecon will be anchored around a D&D-inspired crypto scavenger hunt all across downtown Vancouver on **Saturday, June 23rd**. Teams of five or more people will follow clues and communications to solve puzzles around the city and try to be the first to complete the game and “save the Doge”. When each location is reached and the multi-layered puzzle is solved, teams will unlock the next part of the DogeQuest story.
+Rather than a hackathon, Dogecon will be anchored around a D&D-inspired crypto scavenger hunt all across downtown Vancouver on **Saturday, June 23rd**. Teams of four or more people will follow clues and communications to solve puzzles around the city and try to be the first to complete the game and “save the Doge”. When each location is reached and the multi-layered puzzle is solved, teams will unlock the next part of the DogeQuest story.
 
 Over 20 local landmarks, and historic crypto locations (like the home of the world’s first Bitcoin ATM) have been mapped to plot out this innovative game. Teams will test their crypto knowledge and skills while competing for **ONE MILLION DOGE**!!!!
 
