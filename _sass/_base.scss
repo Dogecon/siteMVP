@@ -193,7 +193,7 @@ pre {
 .tiles {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: flex-start;
     .tile {
         display: flex;
         flex-direction: column;
@@ -211,5 +211,46 @@ pre {
             min-width: 300px;
             max-width: 50%;
         }
+    }
+
+    div {
+        margin: 20px;
+    }
+
+    .halfWidth {
+        display: flex;
+        max-width: 40%;
+        min-width: 315px;
+    }
+
+    .oneThirdWidth {
+        display: flex;
+        max-width: 33%;
+        min-width: 200px;
+    }
+    
+    .rowTile {
+        display: grid;
+        grid-template: 
+            "title title" 1em
+            "pic text" auto /
+            40% auto;
+        grid-gap: 15px;
+        img {
+            grid-area: pic;
+            margin-top: 5px;
+        }
+        h3 {
+            grid-area: title;
+            margin-bottom: 5px;
+        }
+        p {
+            grid-area: text;
+            font-size: 16px;
+        }
+    }
+    
+    .columnTile {
+        flex-direction: column;
     }
 }

@@ -137,7 +137,7 @@ pre {
 .tiles {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around; }
+  justify-content: flex-start; }
   .tiles .tile {
     display: flex;
     flex-direction: column;
@@ -153,6 +153,31 @@ pre {
     .tiles .tile img {
       min-width: 300px;
       max-width: 50%; }
+  .tiles div {
+    margin: 20px; }
+  .tiles .halfWidth {
+    display: flex;
+    max-width: 40%;
+    min-width: 315px; }
+  .tiles .oneThirdWidth {
+    display: flex;
+    max-width: 33%;
+    min-width: 200px; }
+  .tiles .rowTile {
+    display: grid;
+    grid-template: "title title" 1em "pic text" auto / 40% auto;
+    grid-gap: 15px; }
+    .tiles .rowTile img {
+      grid-area: pic;
+      margin-top: 5px; }
+    .tiles .rowTile h3 {
+      grid-area: title;
+      margin-bottom: 5px; }
+    .tiles .rowTile p {
+      grid-area: text;
+      font-size: 16px; }
+  .tiles .columnTile {
+    flex-direction: column; }
 
 /*
 * Html Layout
