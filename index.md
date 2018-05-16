@@ -16,6 +16,6 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
   <br>
   <br>
 
-#### Early confirmed speakers include [Bob Summerwill](http://www.bobsummerwill.com), [Brittany Kaiser](http://www.newsweek.com/who-brittany-kaiser-ex-cambridge-analytica-director-warns-facebook-leak-much-889609), and [Jaya Klara Brekke](www.jayapapaya.net/); artists including [Markus Zimmermann](https://riat.at/people/markus-zimmermann/) and [David Foox](www.bitxbitmovie.com/); and live media coverage from [Dogecoin Millionaire](https://twitter.com/sabotagebeats) and [#Blocktalk](https://www.youtube.com/channel/UCpfB0lyoKDCKX8wZ7a-K-dw). We have tons more surprises which will be announced in due time -- for now, we're controlling the flow of information to tantalize and inspire...
+#### Early confirmed speakers include [Bob Summerwill](http://www.bobsummerwill.com), [Brittany Kaiser](http://www.newsweek.com/who-brittany-kaiser-ex-cambridge-analytica-director-warns-facebook-leak-much-889609), and [Jaya Klara Brekke](http://www.jayapapaya.net); artists including [Markus Zimmermann](https://riat.at/people/markus-zimmermann/) and [David Foox](http://www.bitxbitmovie.com/); and live media coverage from [Dogecoin Millionaire](https://twitter.com/sabotagebeats) and [#Blocktalk](https://www.youtube.com/channel/UCpfB0lyoKDCKX8wZ7a-K-dw). We have tons more surprises which will be announced in due time -- for now, we're controlling the flow of information to tantalize and inspire...
 
 # [Checkout our blog for updates.](http://medium.com/dogecon)
