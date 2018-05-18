@@ -1,0 +1,11 @@
+body {background-color:#0275d8!important;}
+.top-header {background-color: #000; background-image: url(http://dogecon.fun/images/spacebg.jpg);}
+.top-header .timer-row__progress-bar {background:#0275d8;}
+.top-header .timer-row {background: #ff0; color:#4a0080;}
+.payment-tabs__slider {background: #0275d8;	}
+.separatorGem {background: #0275d8;}
+.action-button {color: #ff0; background-color: #0275d8;border-color: #0275d8;}
+.action-button:hover {background-color: #0275d8;}
+.action-button:focus, .action-button.focus {color: #ff0;background-color: #0275d8; border-color: #0275d8;}
+.action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: #ff0;    background-color: #0275d8;    border-color: #0275d8;}
+.action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, .open>.action-button.dropdown-toggle.focus {    color: #ff0;    background-color: #0275d8;    border-color: #0275d8;}
