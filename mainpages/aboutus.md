@@ -69,7 +69,7 @@ The following is a short list of the core team involved in this pursuit: we welc
     <p>is our in-house crypto artist and mystical muse, executing everything from paintings to icon design to ensure that the many faces of the Doge make themselves seen.</p>
   </div>
   <div class="halfWidth rowTile">
-    <img src="/images/photos/dctrl.jpeg" />
+    <img src="/images/bio/cambiopic.jpg" />
     <h3>Cameron Gray</h3>
     <p>has led us to excellence from the beginning with his graphic design and tongue-in-cheek sayings, ensuring that we stay true to the decentralist whimsy of the Doge.</p>
   </div>
