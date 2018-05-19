@@ -18,3 +18,5 @@ github_username:  ""
 linkedin_username: ""
 linkedin_url: ""
 markdown: kramdown
+plugins:
+  - jekyll-redirect-from
