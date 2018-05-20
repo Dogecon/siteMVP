@@ -8,7 +8,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 ## Pay with Cryptocurrencies
 
-Please note that we compelete the cryptocurrency payments manually. The processing takes 24-48 hours.
+Please note that we issue tickets for the cryptocurrency payments manually. The processing takes 24-48 hours.
 
 <form method="post" action="https://btcpay.stufftech.io/apps/7nExDVMVo6t7t6uanbdF5fQBxmDy8ZouXLtySQrsE4XX/pos"> 
 
