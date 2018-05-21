@@ -1,0 +1,10 @@
+---
+layout: page
+bkg_color: hsl(202, 99%, 59%, 1)
+txt_color: hsl(275, 100%, 25%, 1)
+nav_color: hsl(108, 100%, 81%, 1)
+nav_txt_color: hsl(275, 100%, 25%, 1)
+---
+
+
+<div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/xems/js/embed/embedagenda.js?eid=dogec_201806&host=https://whova.com" type="text/javascript" id="embeded-agenda-script"></script><div id="whova-wrap">Powered By <a class="brandlink" target="_blank" href="https://www.whova.com"><b>Whova - Best Event App</b></a><div id="whova-mgm"><a href="https://whova.com/whova-event-app/" id="whova-emslink" target="_blank">Whova event and conference app</a></div></div></div>
