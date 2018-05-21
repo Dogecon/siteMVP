@@ -37,6 +37,8 @@ Please note that we issue tickets for the cryptocurrency payments manually. The 
     </div> 
 </form>
 
+<br>
+
 <h1>MAD Upgrade Tickets</h1>
 
 <form method="post" action="https://btcpay.stufftech.io/apps/7nExDVMVo6t7t6uanbdF5fQBxmDy8ZouXLtySQrsE4XX/pos"> 
