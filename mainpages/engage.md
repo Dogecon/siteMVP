@@ -12,6 +12,12 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 ### And we are also [on Riot](https://riot.im/app/#/room/#dogecon:matrix.org), come say hi!
 
+## Follow us
+
+### Subscribe to [our Youtube channel](/youtube). We often livestream from behind the curtains, so keep an eye out for those. 
+
+### We are also on Twitter. Help us doge it up with [@DogeconVan](https://twitter.com/DogeconVan)!
+
 <div class='horizontallyCenter'>
 <a class="twitter-timeline" data-width="650" href="https://twitter.com/DogeconVan?ref_src=twsrc%5Etfw">Tweets by DogeconVan</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

@@ -5,7 +5,7 @@
  */
 html, body {
   font: 200 1rem/1.5 "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #4a0080;
+  color: #9e32ec;
   background-color: #2fb2fe; }
 
 /**
@@ -82,7 +82,7 @@ a {
   a:visited {
     color: yellow; }
   a:hover {
-    color: #4a0080;
+    color: #9e32ec;
     text-decoration: underline; }
 
 /**
@@ -298,7 +298,7 @@ html, body {
       border-radius: 5px;
       margin: 5px; }
     .site-nav .site-nav-links .nav-item > a {
-      color: #4a0080;
+      color: #9e32ec;
       height: inherit; }
 
 @media screen and (min-width: 800px) {
@@ -320,7 +320,7 @@ html, body {
         border-radius: 0;
         padding: 0.5rem 0.5rem 2px;
         margin: 0 0.3rem;
-        color: #4a0080; }
+        color: #9e32ec; }
         .site-nav .site-nav-links .nav-item button, .site-nav .site-nav-links .nav-item button:active, .site-nav .site-nav-links .nav-item button:hover, .site-nav .site-nav-links .nav-item button:focus,
         .site-nav .site-nav-links .nav-item > a,
         .site-nav .site-nav-links .nav-item > a:active,
@@ -330,8 +330,8 @@ html, body {
         .site-nav .site-nav-links .nav-item button:hover, .site-nav .site-nav-links .nav-item button:focus,
         .site-nav .site-nav-links .nav-item > a:hover,
         .site-nav .site-nav-links .nav-item > a:focus {
-          border-bottom: 3px solid #4a0080;
-          color: #4a0080; }
+          border-bottom: 3px solid #9e32ec;
+          color: #9e32ec; }
       .site-nav .site-nav-links:not(:last-child) {
         margin-right: 20px; } }
 .site-small-jumbo {
