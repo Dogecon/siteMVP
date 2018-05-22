@@ -1,7 +1,7 @@
 ---
 layout: page
-bkg_color: hsl(202, 99%, 59%, 1)
-txt_color: hsl(275, 100%, 25%, 1)
+bkg_color: rgb(30,30,30)
+txt_color: rgb(255,255,255)
 nav_color: hsl(108, 100%, 81%, 1)
 nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
@@ -35,8 +35,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <br>
         <br>
         <p><a href="https://ubiqsmart.com/">Ubiq</a> is a decentralized platform which allows the creation and implementation of smart contracts and decentralized applications. Built upon an improved Ethereum codebase, the Ubiq blockchain acts as a large globally distributed ledger and supercomputer, allowing developers to create decentralized and automated solutions to thousands of tasks which today are carried out by third party intermediaries.</p>
-
-        <p>With a diverse range of specializations and vast experience in both blockchain and traditional financial services,the Ubiq development team is committed to providing the most stable, flexible, and bug-free platform available for the development of enterprise applications. This is accomplished through extensive observation, testing, and improvements to the various blockchain technologies currently available.</p>
+        <p> With a diverse range of specializations and vast experience in both blockchain and traditional financial services,the Ubiq development team is committed to providing the most stable, flexible, and bug-free platform available for the development of enterprise applications. This is accomplished through extensive observation, testing, and improvements to the various blockchain technologies currently available. </p>
     </div>
     <div class="tile">
         <h3> BitNational</h3>
@@ -44,6 +43,13 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <br>
         <br>
         <p><a href="http://bitnational.com//">BitNational</a> helps make exchanging Bitcoin easy. Buy or sell Bitcoin instantly using their vast and conveniently located network of ATMs spread across western Canada in Vancouver, Richmond, Surrey, Edmonton and Calgary.</p>
+    </div>
+    <div class="tile">
+        <h3> Honey Badger</h3>
+        <img src="/images/logos/honeybadger.png" />
+        <br>
+        <br>
+        <p><a href="https://www.badgercoin.com/">Honey Badger</a> is Canada's most reliable network of bitcoin kiosks. Established in August 2016, with a passion for bitcoin and cryptocurrency. Honey Badger began with 1 kiosk in Vancouver to now 50+ kiosks across Canada and select international locations. Honey Badger kiosks also offer LiteCoin and Ethereum. Visit <a href="https://www.badgercoin.com/">Honey Badger's website</a> for kiosk locations. </p>
     </div>
 </div>
 
@@ -56,6 +62,25 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <br>
         <br>
         <p><a href="https://soseilaw.com/">Sam Osei Law Corporation</a>’s clients range from individuals to public companies and his firm has a proven track record in acting for them in both business law and blockchain law. They operate a dynamic practice, able to offer contractual, advisory and litigation services. They operate in the blockchain ecosystem, not only as advisors, but as participants. Their intimate understanding of the space is the differentiating factor that makes them leaders in this field.</p>
+    </div>
+    <div class="tile">
+        <h3> Coincards.ca </h3>
+        <img src="/images/logos/coincards.png" />
+        <br>
+        <br>
+        <p><a href="https://coincards.ca/">Coincards.ca</a> vision is to help Canadians spend their bitcoins at all Canadian retailers, using those retailers existing Gift Card infrastructure. Coincards.ca strives to enable bitcoin adpotion by having Canada’s best selection of Gift Cards available for bitcoin, with the aim of showing retailers that their customers are interested in spending bitcoin.</p>
+    </div>
+</div>
+
+## Wow Tier Sponsors
+
+<div class="tiles">
+    <div class="tile">
+        <h3> Crypto Asylum</h3>
+        <img src="/images/logos/cryptoasylum.png" />
+        <br>
+        <br>
+        <p><a href="https://cryptoasylum.com/">Crypto Asylum</a> is North America's Trusted Retailer of Trezor, BillFodl and Digital Bitbox Hardware Wallets; the safest and easiest way to store large amounts of crypto. With years of experience servicing the cryptocurrency economy, Crypto Asylum is reputable for excellent customer services and convenient shipping.</p>
 
     </div>
 </div>
