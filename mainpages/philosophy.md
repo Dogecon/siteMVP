@@ -1,7 +1,7 @@
 ---
 layout: page
-bkg_color: hsl(202, 99%, 59%, 1)
-txt_color: hsl(275, 100%, 25%, 1)
+bkg_color: rgb(30,30,30)
+txt_color: rgb(255,255,255)
 nav_color: hsl(108, 100%, 81%, 1)
 nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
@@ -28,6 +28,12 @@ For many members of the Vancouver decentralist community, as well as a network o
 <br>
 
 For us, the 'social experiment' of the DDP has indeed shown that it’s possible to unite thousands of people of all ages, cultures and social groups in order to peacefully celebrate our Common Humanity. It is a unique force that has the power to overcome negative conditioning and unify and inspire earth’s inhabitants in ways never before imagined. This believe and revolutionary joy drives all that we build at Carpe Lunam Events Association, and it is at the heart and soul of Dogecon.
+
+<div class="horizontallyCenter">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ytFxdUTS2E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<br>
 
 <h2 id='finance'> Transparency and Financial Inclusivity </h2>
 

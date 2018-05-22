@@ -190,10 +190,21 @@ pre {
 }
 
 //DOGECON THEME
+.horizontallyCenter {
+    display: flex;
+    justify-content: center;
+}
+.rainbowText {
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
 .tiles {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: center;
     .tile {
         display: flex;
         flex-direction: column;

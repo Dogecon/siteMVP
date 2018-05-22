@@ -169,7 +169,13 @@ html, body {
       width: 5rem;
     }
     .contact-list {
+      :first-child{ //MADE FOR DOGECON's DONATION LINK
+        margin-bottom: 5px;
+        font-weight: bold; 
+      }
       padding: 1rem 0;
+      background-color: #000000af;
+
     }
     .footer-tiny {
       font-size: 0.7rem;
