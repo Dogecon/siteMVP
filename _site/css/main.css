@@ -134,10 +134,21 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+.horizontallyCenter {
+  display: flex;
+  justify-content: center; }
+
+.rainbowText {
+  background: linear-gradient(to right, orange, yellow, green, cyan, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent; }
+
 .tiles {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start; }
+  justify-content: center; }
   .tiles .tile {
     display: flex;
     flex-direction: column;
@@ -348,7 +359,11 @@ html, body {
     .site-footer .footer-heading .footer-brand {
       width: 5rem; }
     .site-footer .footer-heading .contact-list {
-      padding: 1rem 0; }
+      padding: 1rem 0;
+      background-color: #000000af; }
+      .site-footer .footer-heading .contact-list :first-child {
+        margin-bottom: 5px;
+        font-weight: bold; }
     .site-footer .footer-heading .footer-tiny {
       font-size: 0.7rem; }
   .site-footer .contact-list,
