@@ -56,14 +56,14 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
 ## Amaze Tier Sponsors
 
 <div class="tiles">
-    <div class="tile">
+    <div class="tile halfWidth columnTile">
         <h3> Samuel Osei Law Corporation</h3>
         <img src="/images/logos/samosei.jpg" />
         <br>
         <br>
         <p><a href="https://soseilaw.com/">Sam Osei Law Corporation</a>’s clients range from individuals to public companies and his firm has a proven track record in acting for them in both business law and blockchain law. They operate a dynamic practice, able to offer contractual, advisory and litigation services. They operate in the blockchain ecosystem, not only as advisors, but as participants. Their intimate understanding of the space is the differentiating factor that makes them leaders in this field.</p>
     </div>
-    <div class="tile">
+    <div class="tile halfWidth columnTile">
         <h3> Coincards.ca </h3>
         <img src="/images/logos/coincards.png" />
         <br>
@@ -75,12 +75,18 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
 ## Wow Tier Sponsors
 
 <div class="tiles">
-    <div class="tile">
+    <div class="tile halfWidth columnTile">
         <h3> Crypto Asylum</h3>
         <img src="/images/logos/cryptoasylum.png" />
         <br>
         <br>
         <p><a href="https://cryptoasylum.com/">Crypto Asylum</a> is North America's Trusted Retailer of Trezor, BillFodl and Digital Bitbox Hardware Wallets; the safest and easiest way to store large amounts of crypto. With years of experience servicing the cryptocurrency economy, Crypto Asylum is reputable for excellent customer services and convenient shipping.</p>
-
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> ChainSafe </h3>
+        <img src="/images/logos/chainsafe.png" class="squareLogo" />
+        <br>
+        <br>
+        <p><a href="https://chainsafe.io/">Chainsafe Systems</a> offers intuitive, user-centric systems design. Utilizing emerging technologies such as blockchain, smart contracts and machine learning; our aim is to future proof your digital transformation.</p>
     </div>
 </div>
