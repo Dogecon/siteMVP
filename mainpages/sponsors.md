@@ -89,4 +89,29 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <br>
         <p><a href="https://chainsafe.io/">Chainsafe Systems</a> offers intuitive, user-centric systems design. Utilizing emerging technologies such as blockchain, smart contracts and machine learning; our aim is to future proof your digital transformation.</p>
     </div>
+    <div class="tile halfWidth columnTile">
+        <h3> DCTRL </h3>
+        <img src="/images/logos/dctrl.png" />
+        <p><a href="https://dctrl.ca/">DCTRL's Website</a></p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Blockchain @UBC </h3>
+        <img src="/images/logos/blockchainubc.png" />
+        <p><a href="https://blockchainubc.ca/">Blockchain @UBC's Website</a></p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> BC Blockchain Forum </h3>
+        <img src="/images/logos/bcblockchainforum.png" />
+        <p><a href="http://bcblockchainforum.ca/">BC Blockchain Forum's Website</a></p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> ESLCoin </h3>
+        <img src="/images/logos/eslcoin.png" />
+        <p><a href="https://eslcoin.org/">ESLCoin's Website</a></p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Blockchain Gaming </h3>
+        <img src="/images/logos/bcgaming.png" />
+        <p><a href="http://blockchaingaming.com/">Blockchain Gaming's Website</a></p>
+    </div>
 </div>
