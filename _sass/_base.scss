@@ -285,6 +285,7 @@ body {background-color:#0275d8!important;}
 .action-button:focus, .action-button.focus {color: #ff0;background-color: #0275d8; border-color: #0275d8;}
 .action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: #ff0;    background-color: #0275d8;    border-color: #0275d8;}
 .action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, .open>.action-button.dropdown-toggle.focus {    color: #ff0;    background-color: #0275d8;    border-color: #0275d8;}
+.blackText { color: black; width: 250px; }
 
 div.tickets {
     h4 {

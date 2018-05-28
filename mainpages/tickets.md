@@ -40,7 +40,9 @@ Please review our <a href="/mainpages/ticketTermsConditions" target="_blank">Pay
 <h1>Standard Tickets</h1>
 <p style="text-align: center;">will grant you access to all public events from Thursday evening June 21, through Sunday night June 24. Its cost in crypto is pegged to $200 CAD.</p>
 
-<form method="post" action="https://btcpay.stufftech.io/apps/7nExDVMVo6t7t6uanbdF5fQBxmDy8ZouXLtySQrsE4XX/pos">
+<form method="post" action="https://btcpay.stufftech.io/apps/7nExDVMVo6t7t6uanbdF5fQBxmDy8ZouXLtySQrsE4XX/pos">    
+    <div>Email for standard ticket: <input class="blackText" type="email" name="email" required></div>
+    <br>
     <div class="row tickets">
         <div class="col-sm-4 mb-3">
             <h4>1 Regular Ticket</h4>
@@ -70,7 +72,9 @@ Please review our <a href="/mainpages/ticketTermsConditions" target="_blank">Pay
 <h1>MAD Upgrade Tickets</h1>
 <p style="text-align: center;">gets you drink tickets at our nighttime networking events, a boxed lunch of your choice at the DOGETalks picnic on Friday June 22nd, and an artfully assembled Doge swag bag with classic DDP flair. Its cost in crypto is pegged to $420 CAD.</p>
 
-<form method="post" action="https://btcpay.stufftech.io/apps/7nExDVMVo6t7t6uanbdF5fQBxmDy8ZouXLtySQrsE4XX/pos">
+<form method="post" action="https://btcpay.stufftech.io/apps/7nExDVMVo6t7t6uanbdF5fQBxmDy8ZouXLtySQrsE4XX/pos">    
+    <div>Email for MAD ticket: <input class="blackText" type="email" name="email" required></div>
+    <br>
     <div class="row tickets">
         <div class="col-sm-4 mb-3">
             <h4>1 MAD Upgrade Ticket</h4>
