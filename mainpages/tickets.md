@@ -6,13 +6,15 @@ nav_color: hsl(108, 100%, 81%, 1)
 nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
 <a name="mobile">
-## How to Buy Dogecon tickets (crypto only for now):
+## How to Buy Dogecon tickets:
 
 ### Regular Pass
 A **regular pass** will grant you access to all public events from Thursday evening June 21, through Sunday night June 24. Its cost in crypto is pegged to $200 CAD.
 
 ### MAD Upgrade Pass
 A **MAD upgrade pass** (Much Amazing Doge) gets you drink tickets at our nighttime networking events, a boxed lunch of your choice at the DOGETalks picnic on Friday June 22nd, and an artfully assembled Doge swag bag with <a href="http://www.theddp.com" target="_black">classic DDP flair</a>. Its cost in crypto is pegged to $420 CAD.
+
+## The rest of this page is for crypto payments. To pay with fiat, <a target="_blank" href="https://whova.com/portal/registration/dogec_201806/">click here.</a>
 
 <br />
 **Make sure you select the button for the type of tickets you want!**
