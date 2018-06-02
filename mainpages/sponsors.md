@@ -92,26 +92,43 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
     <div class="tile halfWidth columnTile">
         <h3> DCTRL </h3>
         <img src="/images/logos/dctrl.png" />
-        <p><a href="https://dctrl.ca/">DCTRL's Website</a></p>
+        <p><a href="https://dctrl.ca/">DCTRL</a> is a 4+ year old community commons devoted to free public education around decentralization and cryptocurrency, as well as a clubhouse for nerds of all types to hang out and BUIDL the future of tech.</p>
     </div>
     <div class="tile halfWidth columnTile">
-        <h3> Blockchain @UBC </h3>
+        <h3> Tom & Gary's Decentralized Dance Party </h3>
+        <img src="/images/logos/DDP-logo-mock1.png" />
+        <p><a href="https://http://www.decentralizeddanceparty.com/faq/">Tom & Gary's Decentralized Dance Party</a> has been travelling the world for nearly a decade, converting people from all walks of life to the tenets of decentralization, the adoption of cryptocurrency and blockchain technology, and most of all, the shared human experience of joy and connection that comes from Capital-P Partying.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Blockchain@UBC </h3>
         <img src="/images/logos/blockchainubc.png" />
-        <p><a href="https://blockchainubc.ca/">Blockchain @UBC's Website</a></p>
+        <p><a href="https://blockchainubc.ca/">Blockchain@UBC</a> is a collaborative research cluster based at the University of British Columbia, with 221 affiliates and 13 research projects underway. The cluster focuses on blockchain technology as one component of investigating the broader research question “How can emerging technologies be leveraged to benefit Canadians.”</p>
     </div>
     <div class="tile halfWidth columnTile">
         <h3> BC Blockchain Forum </h3>
         <img src="/images/logos/bcblockchainforum.png" />
-        <p><a href="http://bcblockchainforum.ca/">BC Blockchain Forum's Website</a></p>
+        <p><a href="http://bcblockchainforum.ca/">BC Blockchain Forum</a> is a private/public sector initiative founded by DigitalFutures to advance good business practice in blockchain technologies and the associated creation of digital assets. They achieve this through advocacy, education and roundtables with blockchain entrepreneurs, startups, investors, corporates, educational institutions, service providers, and government bodies.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Vancouver Co-operative Radio 100.5FM </h3>
+        <img src="/images/logos/coop.png" class="squareLogo" />
+        <br>
+        <br>
+        <p><a href="http://www.coopradio.org/">CFRO</a> is a non-commercial, co-operatively-owned, listener-supported, community radio station. Co-op Radio strives to provide a space for under-represented and marginalized communities and aims to increase community participation by encouraging examination of the social and political concerns of the geographic and cultural communities of BC and beyond.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Bitcoin and Beers </h3>
+        <img src="/images/logos/bitcoinbeers.jpg" />
+        <p><a href="https://www.bitcoinandbeers.com">Bitcoin and Beers</a> is a volunteer run group of cryptocurrency enthusiasts. We meet to learn about cryptocurrency, blockchain and decentralized technology in comfortable low-key settings.</p>
     </div>
     <div class="tile halfWidth columnTile">
         <h3> ESLCoin </h3>
         <img src="/images/logos/eslcoin.png" />
-        <p><a href="https://eslcoin.org/">ESLCoin's Website</a></p>
+        <p><a href="https://eslcoin.org/">ESLCoin</a> will function as a decentralized autonomous database of ESL students, teachers and businesses. Anyone will be able to use this network to find ESL services or clients without paying hefty middlemen fees.</p>
     </div>
     <div class="tile halfWidth columnTile">
         <h3> Blockchain Gaming </h3>
         <img src="/images/logos/bcgaming.png" />
-        <p><a href="http://blockchaingaming.com/">Blockchain Gaming's Website</a></p>
+        <p><a href="https://twitter.com/blockchaingames">Blockchain Gaming</a> is your best source of information about video games using blockchain technology!</p>
     </div>
 </div>

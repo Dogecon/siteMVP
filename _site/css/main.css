@@ -171,6 +171,9 @@ pre {
     display: flex;
     max-width: 40%;
     min-width: 315px; }
+    .tiles .halfWidth .squareLogo {
+      min-width: 170px;
+      max-width: 170px; }
   .tiles .oneThirdWidth {
     display: flex;
     max-width: 33%;
@@ -233,6 +236,10 @@ body {
   color: #ff0;
   background-color: #0275d8;
   border-color: #0275d8; }
+
+.blackText {
+  color: black;
+  width: 250px; }
 
 div.tickets h4 {
   margin-bottom: 5px; }
