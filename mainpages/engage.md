@@ -6,13 +6,38 @@ nav_color: hsl(108, 100%, 81%, 1)
 nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
 
-## It takes a village to celebrate 2018: Year of the Doge. We want this event to belong to as many of us as possible -- spreading the burden of sponsorship helps us diversify its design and ensure we’re including everyshibe along the way!
+<h3> <a target="_blank" href="http://medium.com/dogecon">Dogecon Blog</a></h3>
+### [Volunteer with us](#volunteers)
+### [Call for artists](#artists)
+### [We are online!](#online)
+
+<br/>
+
+<h2 id='volunteers'> Volunteer with us  </h2>
+
+Volunteers are always welcome to help out at any level before and during the events. As a gesture of gratitude, we offer one free weekend pass to the volunteers who meet the following requirements:
+
+* [Fill out our volunteer interest form with your ability](https://goo.gl/forms/jFIiIAHv9RTlGZWE2)
+* Upon being accepted, join our Slack team and introduce yourself in #new_volunteers
+* Join us for a digital orientation session via Google Hangouts in the week before Dogecon
+* Sign up for, and complete, 2 shifts of 4 hours’ duration during Dogecon (please arrive 15 minutes early  for your shift-- we will not keep you late after)
+* That’s it! You’re in! Join us in celebration :-)
+
+<br/>
+
+<h2 id='artists'> Call for artists  </h2>
+
+### Submit meme/absurdist/crypto-themed work to senddogememes@gmail.com. Please limit your attachments to 2 jpegs or pngs and include a short description of your artwork as well as the size and weight.
+
+<br>
+
+<h2 id='online'> We are online! </h2>
+
+### It takes a village to celebrate 2018: Year of the Doge. We want this event to belong to as many of us as possible -- spreading the burden of sponsorship helps us diversify its design and ensure we’re including everyshibe along the way!
 
 ### Please [email us](mailto:carpelunam@gmail.com) for more information on how to get involved as a speaker, sponsor, artist, musician, or volunteer.
 
 ### And we are also [on Riot](https://riot.im/app/#/room/#dogecon:matrix.org), come say hi!
-
-## Follow us
 
 ### Subscribe to [our Youtube channel](/youtube). We often livestream from behind the curtains, so keep an eye out for those. 
 
