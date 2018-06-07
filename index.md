@@ -6,6 +6,12 @@ nav_color: hsl(108, 100%, 81%, 1)
 nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
 
+<div class="horizontallyCenter">
+  <iframe width="784" height="441" src="https://www.youtube.com/embed/ZnoxBkj4gi0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<br>
+
 ## Dogecon Vancouver 2018 is a weekend celebration of the social layer of crypto culture, embracing memes and tweetstorms as the current pinnacle of human art and attention. Using the Year of the Doge as a launchpad, we'll engage in a range of participatory experiences from carefree and whimsical Partying to deep dialectical dialogues.
 
 ### Dogecon will be the crypto *unconvention*, where play and art are granted as much reverence as math and hardware. We'll be livestreaming everything, with ample opportunities for our attendees to make their voices heard, from Speed Debates to Crypto Confessional Booths. Come roll up your sleeves and get zany with the decentralist scene!
