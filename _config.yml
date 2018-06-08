@@ -8,7 +8,7 @@
 # Site settings
 title: Dogecon
 email: carpelunam@gmail.com
-url: "http://dogecon.party"
+url: "http://dogecon.fun"
 description: Information on Dogecon Vancouver 2018
 
 # the subpath of your site, e.g. /blog
@@ -18,5 +18,5 @@ github_username:  ""
 linkedin_username: ""
 linkedin_url: ""
 markdown: kramdown
-plugins_dir:
+plugins:
   - jekyll-redirect-from
