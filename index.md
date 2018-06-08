@@ -25,3 +25,57 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 #### Early confirmed speakers include [Bob Summerwill](http://www.bobsummerwill.com), [Brittany Kaiser](http://www.newsweek.com/who-brittany-kaiser-ex-cambridge-analytica-director-warns-facebook-leak-much-889609), [Jaya Klara Brekke](http://www.jayapapaya.net), and [Griff Green](https://giveth.io/); artists including [Markus Zimmermann](https://riat.at/people/markus-zimmermann/) and [David Foox](http://www.bitxbitmovie.com/); and live media coverage from [Dogecoin Millionaire](https://twitter.com/sabotagebeats) and [#Blocktalk](https://www.youtube.com/channel/UCpfB0lyoKDCKX8wZ7a-K-dw). We have tons more surprises which will be announced in due time -- for now, we're controlling the flow of information to tantalize and inspire...
 
 # [Checkout our blog for updates.](http://medium.com/dogecon)
+
+## Speakers
+
+<div class="tiles">
+  <div class="columnTile oneThirdWidth">
+    <img class="dogeMask" src="/images/speakers/jacksonpalmer.png" />
+    <h3><a href="https://ummjackson.com/" target="_blank">Jackson Palmer</a></h3>
+    <p>Creator of Dogecoin; crypto coder & cultural commentator</p>
+  </div>
+  <div class="columnTile oneThirdWidth">
+    <img class="dogeMask" src="/images/speakers/bobsummerwill.jpeg" />
+    <h3><a href="https://bobsummerwill.com/" target="_blank">Bob Summerwill</a></h3>
+    <p>Ethereum trailblazer; uniter of chains & tribes</p>
+  </div>
+  <div class="columnTile oneThirdWidth">
+    <img class="dogeMask" src="/images/speakers/griffgreen.jpg" />
+    <h3><a href="https://giveth.io/" target="_blank">Griff Green</a></h3>
+    <p>Giveth founder; decentralist and white-hat community hero</p>
+  </div>
+  <div class="columnTile oneThirdWidth">
+    <img class="dogeMask" src="/images/speakers/maxborders.jpeg" />
+    <h3><a href="http://social-evolution.com/" target="_blank">Max Borders</a></h3>
+    <p>Voice & Exit founder; Social Evolution Executive Director</p>
+  </div>
+  <div class="columnTile oneThirdWidth">
+    <img class="dogeMask" src="/images/speakers/taylorgerring.jpeg" />
+    <h3><a href="https://blockchain.wtf/" target="_blank">Taylor Gerring</a></h3>
+    <p>Ethereum Foundation co-founder;creator of Blockchain.WTF</p>
+  </div>
+  <div class="columnTile oneThirdWidth">
+    <img class="dogeMask" src="/images/speakers/johnlight.jpeg" />
+    <h3><a href="https://lightco.in/" target="_blank">John Light</a></h3>
+    <p>Aragon community lead; Bitseed co-founder</p>
+  </div>
+  <div class="columnTile oneThirdWidth">
+    <img class="dogeMask" src="/images/speakers/marieagar.jpg" />
+    <h3><a href="http://www.digitalfutures.co/mari-eagar/" target="_blank">MaRi Eagar</a></h3>
+    <p>DigitalFutures co-founder; Vancouver blockchain community leader</p>
+  </div>
+  <div class="columnTile oneThirdWidth">
+    <img class="dogeMask" src="/images/speakers/louisparker.jpg" />
+    <h3><a href="http://archetype.mx/" target="_blank">Louis Parker</a></h3>
+    <p>Archetype.mx co-founder; meme-master extraordinaire</p>
+  </div>
+  <div class="columnTile oneThirdWidth">
+    <img class="dogeMask" src="/images/speakers/andersaamodt.jpg" />
+    <h3><a href="http://andersaamodt.com/" target="_blank">Anders Aamodt</a></h3>
+    <p>Holo community coordinator; Xenogaming theorist</p>
+  </div>
+</div>
+
+… and many more confirmations rolling in! We’ll update as the RSVPs arrive :-)
+
+We’ll also have the pleasure of many community and media partnerships with [Dogecoin Millionaire](https://twitter.com/sabotagebeats) livetweeting, [#BlockTalk](https://www.youtube.com/channel/UCpfB0lyoKDCKX8wZ7a-K-dw) conducting on-the-scene interviews, and participation from [Vancouver Co-op Radio](http://www.coopradio.org/), [Blockchain@UBC](https://blockchainubc.ca/), [Tom and Gary’s Decentralized Dance Party](www.theddp.com), [DCTRL community commons](www.dctrl.ca) and more!
