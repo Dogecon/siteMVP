@@ -17,7 +17,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 Volunteers are always welcome to help out at any level before and during the events. As a gesture of gratitude, we offer one free weekend pass to the volunteers who meet the following requirements:
 
-* [Fill out our volunteer interest form with your availability](https://goo.gl/forms/jFIiIAHv9RTlGZWE2)
+* [Click here to fill out our volunteer interest form with your availability](https://goo.gl/forms/jFIiIAHv9RTlGZWE2)
 * Upon being accepted, join our Slack team and introduce yourself in #new_volunteers
 * Join us for a digital orientation session via Google Hangouts in the week before Dogecon
 * Sign up for, and complete, 2 shifts of 4 hours’ duration during Dogecon (please arrive 15 minutes early  for your shift-- we will not keep you late after)
