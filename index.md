@@ -47,7 +47,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
   <div class="columnTile oneThirdWidth">
     <img class="dogeMask" src="/images/speakers/taylorgerring.jpeg" />
     <h3><a href="https://blockchain.wtf/" target="_blank">Taylor Gerring</a></h3>
-    <p>Ethereum Foundation co-founder;creator of Blockchain.WTF</p>
+    <p>Ethereum Foundation co-founder; creator of Blockchain.WTF</p>
   </div>
   <div class="columnTile oneThirdWidth">
     <img class="dogeMask" src="/images/speakers/johnlight.jpeg" />
@@ -73,6 +73,6 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 … and many more confirmations rolling in! We’ll update as the RSVPs arrive :-)
 
-We’ll also have the pleasure of many community and media partnerships with [Dogecoin Millionaire](https://twitter.com/sabotagebeats) livetweeting, [#BlockTalk](https://www.youtube.com/channel/UCpfB0lyoKDCKX8wZ7a-K-dw) conducting on-the-scene interviews, and participation from [Vancouver Co-op Radio](http://www.coopradio.org/), [Blockchain@UBC](https://blockchainubc.ca/), [Tom and Gary’s Decentralized Dance Party](www.theddp.com), [DCTRL community commons](www.dctrl.ca) and more!
+We’ll also have the pleasure of many community and media partnerships with [Dogecoin Millionaire](https://twitter.com/sabotagebeats){:target="_blank"} livetweeting, [#BlockTalk](https://www.youtube.com/channel/UCpfB0lyoKDCKX8wZ7a-K-dw){:target="_blank"} conducting on-the-scene interviews, and participation from [Vancouver Co-op Radio](http://www.coopradio.org/){:target="_blank"}, [Blockchain@UBC](https://blockchainubc.ca/){:target="_blank"}, [Tom and Gary’s Decentralized Dance Party](http://www.theddp.com){:target="_blank"}, [DCTRL community commons](http://www.dctrl.ca){:target="_blank"} and more!
 
 # [Checkout our blog for updates.](http://medium.com/dogecon)
