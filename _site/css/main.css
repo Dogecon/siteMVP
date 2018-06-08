@@ -134,6 +134,14 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+.dogeMask {
+  mask-image: url(/images/dogeMask.png);
+  mask-size: cover;
+  -webkit-mask-image: url(/images/dogeMask.png);
+  -webkit-mask-size: cover;
+  -moz-mask-image: url(/images/dogeMask.png);
+  -moz-mask-size: cover; }
+
 .horizontallyCenter {
   display: flex;
   justify-content: center; }
@@ -176,7 +184,7 @@ pre {
       max-width: 170px; }
   .tiles .oneThirdWidth {
     display: flex;
-    max-width: 33%;
+    max-width: 25%;
     min-width: 200px; }
   .tiles .rowTile {
     display: grid;

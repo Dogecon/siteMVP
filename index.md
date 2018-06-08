@@ -24,6 +24,13 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 ## Speakers
 
+<<<<<<< HEAD
+=======
+# [Checkout our blog for updates.](http://medium.com/dogecon)
+
+## Speakers
+
+>>>>>>> 4b737c8c06500d282835cb6eedcac339eb4720ba
 <div class="tiles">
   <div class="columnTile oneThirdWidth">
     <img class="dogeMask" src="/images/speakers/jacksonpalmer.png" />
@@ -74,6 +81,10 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 … and many more confirmations rolling in! We’ll update as the RSVPs arrive :-)
 
+<<<<<<< HEAD
 We’ll also have the pleasure of many community and media partnerships with [Dogecoin Millionaire](https://twitter.com/sabotagebeats) livetweeting, [#BlockTalk](https://www.youtube.com/channel/UCpfB0lyoKDCKX8wZ7a-K-dw) conducting on-the-scene interviews, and participation from [Vancouver Co-op Radio](http://www.coopradio.org/), [Blockchain@UBC](https://blockchainubc.ca/), [Tom and Gary’s Decentralized Dance Party](www.theddp.com), [DCTRL community commons](www.dctrl.ca) and more!
 
 # [Checkout our blog for updates.](http://medium.com/dogecon)
+=======
+We’ll also have the pleasure of many community and media partnerships with [Dogecoin Millionaire](https://twitter.com/sabotagebeats) livetweeting, [#BlockTalk](https://www.youtube.com/channel/UCpfB0lyoKDCKX8wZ7a-K-dw) conducting on-the-scene interviews, and participation from [Vancouver Co-op Radio](http://www.coopradio.org/), [Blockchain@UBC](https://blockchainubc.ca/), [Tom and Gary’s Decentralized Dance Party](www.theddp.com), [DCTRL community commons](www.dctrl.ca) and more!
+>>>>>>> 4b737c8c06500d282835cb6eedcac339eb4720ba
