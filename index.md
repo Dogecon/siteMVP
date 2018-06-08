@@ -21,7 +21,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
   <br>
 
 
-## Speakers
+<h2 style="text-align: center;"> Speakers </h2>
 
 <div class="tiles">
   <div class="columnTile oneThirdWidth">
