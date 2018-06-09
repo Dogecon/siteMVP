@@ -210,6 +210,21 @@ pre {
     background-clip: text;
     text-fill-color: transparent;
 }
+.rollingRainbow {
+    animation: rainbowRoll 25s cubic-bezier(0.16, 0.01, 0.86, 1.01) 0s infinite  alternate;
+}
+@keyframes rainbowRoll {
+    0% {background-position-x: 0px;}
+    100% {background-position-x: 3000px;}
+}
+.zoomingRainbow {
+    animation: rainbowZoom 7s 0s linear infinite alternate;
+    background-position: left;
+}
+@keyframes rainbowZoom {
+    0% {background-size: 20px;}
+    100% {background-size: 300px;}
+}
 .tiles {
     display: flex;
     flex-wrap: wrap;
