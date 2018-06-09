@@ -27,7 +27,7 @@ Volunteers are always welcome to help out at any level before and during the eve
 
 <h2 id='artists'> Call for artists  </h2>
 
-### Submit meme/absurdist/crypto-themed work to senddogememes@gmail.com. Please limit your attachments to 2 jpegs or pngs and include a short description of your artwork as well as the size and weight.
+### Artists are welcome to submit meme/absurdist/crypto-themed work to senddogememes@gmail.com. In your email, please limit your attachments to 2 jpegs or pngs and include a short description of your artwork as well as the size and weight. Submissions are free and you get a free pass to Dogecon upon acceptance of your submission. If you sell your artwork through us, we only take 20% of the sold value.
 
 <br>
 
