@@ -51,6 +51,13 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <br>
         <p><a href="https://www.badgercoin.com/">Honey Badger</a> is Canada's most reliable network of bitcoin kiosks. Established in August 2016, with a passion for bitcoin and cryptocurrency. Honey Badger began with 1 kiosk in Vancouver to now 50+ kiosks across Canada and select international locations. Honey Badger kiosks also offer LiteCoin and Ethereum. Visit <a href="https://www.badgercoin.com/">Honey Badger's website</a> for kiosk locations. </p>
     </div>
+    <div class="tile">
+        <h3> Enjin Coin</h3>
+        <img src="/images/logos/enjin.png" />
+        <br>
+        <br>
+        <p><a href="https://www.enjin.com/">Enjin Coin</a> is a smart gaming cryptocurrency powering a game development ecosystem that will enable developers to create groundbreaking, blockchain-based games - and empower gamers with a wondrous concept - true item ownership. This is a gaming utility token built by a 9 years old, established game industry company processing millions of USD per month in virtual goods sales. It will enable crypto-traders to participate in the $115Bn global game industry market, by allowing them to invest in video games, trade high-valued virtual gaming items - or simply profit as the Enjin Coin-powered gaming meta-economy grows and evolves in size and value.  </p>
+    </div>
 </div>
 
 ## Amaze Tier Sponsors

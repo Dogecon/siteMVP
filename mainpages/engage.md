@@ -27,6 +27,8 @@ Volunteers are always welcome to help out at any level before and during the eve
 
 <h2 id='artists'> Call for artists  </h2>
 
+<img src="/images/posters/dogeartcallposter.jpg" />
+
 ### Artists are welcome to submit meme/absurdist/crypto-themed work to senddogememes@gmail.com. In your email, please limit your attachments to 2 jpegs or pngs and include a short description of your artwork as well as the size and weight. Submissions are free and you get a free pass to Dogecon upon acceptance of your submission. If you sell your artwork through us, we only take 20% of the sold value.
 
 <br>
@@ -39,7 +41,7 @@ Volunteers are always welcome to help out at any level before and during the eve
 
 ### And we are also [on Riot](https://riot.im/app/#/room/#dogecon:matrix.org), come say hi!
 
-### Subscribe to [our Youtube channel](/youtube). We often livestream from behind the curtains, so keep an eye out for those. 
+### Subscribe to [our Youtube channel](/youtube). We often livestream from behind the curtains, so keep an eye out for those.
 
 ### We are also on Twitter. Help us doge it up with [@DogeconVan](https://twitter.com/DogeconVan)!
 

@@ -10,6 +10,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 ### [Our Mission](#mission)
 ### [Decentralized Dance Party](#ddp)
 ### [Transparency and Financial Inclusivity](#finance)  
+### [Carpe Lunam Events Association](#carpelunam)
 
 <br>
 
@@ -68,11 +69,11 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
   </div>
 </div>
 
-Many more amazing humans are in various talks about participation, and you're welcome to become one of them! Just email us at carpelunam AT gmail DOT com.
+Sign up to volunteer in exchange for a ticket on our "Get Involved" page.
 
 <h2 id='mission'> Our Mission </h2>
 
-Dogecon 2018 started as a beautiful meme dream around the end of this past January, with a group of Vancouver decentralists imagining a complex and innovative celebration of this Year of the Doge. Everytime we hit a crossroads between doing this the normal way, and “forking” in a more radically playful direction, we tried to stay true to the latter path.
+Dogecon 2018 started as a beautiful meme dream around the end of this past January, with a group of Vancouver decentralists imagining a complex and innovative celebration of this Year of the Doge. Everytime we hit a crossroads between doing this the normal way, and “forking” in a more radically playful direction, we tried to stay true to the latter path. We're most of the way to the finish line and have some wild participatory shenanigans planned. Do consider joining us!
 
 {:.shrinkpic}
 ![Moses Shibe](/images/mosesdoge.jpg)
@@ -95,6 +96,16 @@ For us, the 'social experiment' of the DDP has indeed shown that it’s possible
 
 <br>
 
+<h2 id='carpelunam'> Carpe Lunam Events Association </h2>
+
+Carpe Lunam Events Association was formed as a nonprofit member-funded society in British Columbia to serve as the seat of Dogecon’s operations when it was wisely suggested to us that we might not want to just wing it anarchically on this large of a scale. This society’s constitution ([PDF warning](/images/carpelunamconstitution.pdf)) outlines our shared purposes for this and future projects:
+* to organize community events which promote collaborative community dialogue around intentional and ethical design in the disruptive technology field;
+* to provide an accessible platform for grassroots artists, musicians, writers, programmers, and other creators to enhance their visibility within the larger decentralization community; and
+* to support widespread education about decentralization, blockchain technology, voluntaryism, and non-hierarchical governance.
+
+Check out our "Get Involved" page for more information on collaborating with us!
+
+<br>
 <h2 id='finance'> Transparency and Financial Inclusivity </h2>
 
 We’ve been “eating our own dog food” on the financial equity principle as an organizing team, as well. Carpe Lunam Events Association was formed as a nonprofit member-funded society to serve as the seat of Dogecon’s operations, and we eschew the mentality that too often equates crypto conferences with revenue machines. Some of our first dedicated budget allotments were to secure legal counsel and accounting advice, to ensure our books and practices are solid and transparent.
