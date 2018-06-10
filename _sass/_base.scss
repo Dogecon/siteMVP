@@ -319,3 +319,16 @@ div.tickets {
         margin-bottom: 20px;
     }
 }
+
+//IE compatiblity styles
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
+    .rowTile {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .columnTile img, .rowTile img {
+        width: 250px;
+        height: 250px;
+    }   
+}
