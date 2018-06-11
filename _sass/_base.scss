@@ -204,7 +204,7 @@ pre {
     justify-content: center;
 }
 .rainbowText {
-    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    background: linear-gradient(to right, orange, yellow, green, cyan, #3737ff, violet,orange);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;

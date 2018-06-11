@@ -13,6 +13,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 <br>
 
 ## Dogecon Vancouver 2018 is a weekend celebration of the social layer of crypto culture, embracing memes and tweetstorms as the current pinnacle of human art and attention.
+{:.rainbowText .rollingRainbow}
 
 {:.shrinkpic}
 ![Much Dogecon](/images/posters/dogecon_event.png)
