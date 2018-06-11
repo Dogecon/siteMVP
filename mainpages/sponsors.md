@@ -138,4 +138,11 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <img src="/images/logos/bcgaming.png" />
         <p><a href="https://twitter.com/blockchaingames">Blockchain Gaming</a> is your best source of information about video games using blockchain technology!</p>
     </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Dogeswag </h3>
+        <img src="/images/logos/dogeswag.png" class="squareLogo" />
+        <br>
+        <br>
+        <p><a href="https://dogeswag.com/">Dogeswag</a> promotes the Dogecoin subculture through trendy streetwear and fashion parody that you can wear in everyday life. They use quality and comfortable clothing, and the best printer in the US. Every order is made just for you, no mass production, so it’s better for the environment!</p>
+    </div>
 </div>
