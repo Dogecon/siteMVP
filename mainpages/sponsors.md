@@ -45,6 +45,13 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <p><a href="http://bitnational.com//">BitNational</a> helps make exchanging Bitcoin easy. Buy or sell Bitcoin instantly using their vast and conveniently located network of ATMs spread across western Canada in Vancouver, Richmond, Surrey, Edmonton and Calgary.</p>
     </div>
     <div class="tile">
+        <h3> Samuel Osei Law Corporation</h3>
+        <img src="/images/logos/samosei.jpg" />
+        <br>
+        <br>
+        <p><a href="https://soseilaw.com/">Sam Osei Law Corporation</a>’s clients range from individuals to public companies and his firm has a proven track record in acting for them in both business law and blockchain law. They operate a dynamic practice, able to offer contractual, advisory and litigation services. They operate in the blockchain ecosystem, not only as advisors, but as participants. Their intimate understanding of the space is the differentiating factor that makes them leaders in this field.</p>
+    </div>
+    <div class="tile">
         <h3> Honey Badger</h3>
         <img src="/images/logos/honeybadger.png" />
         <br>
@@ -63,14 +70,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
 ## Amaze Tier Sponsors
 
 <div class="tiles">
-    <div class="tile halfWidth columnTile">
-        <h3> Samuel Osei Law Corporation</h3>
-        <img src="/images/logos/samosei.jpg" />
-        <br>
-        <br>
-        <p><a href="https://soseilaw.com/">Sam Osei Law Corporation</a>’s clients range from individuals to public companies and his firm has a proven track record in acting for them in both business law and blockchain law. They operate a dynamic practice, able to offer contractual, advisory and litigation services. They operate in the blockchain ecosystem, not only as advisors, but as participants. Their intimate understanding of the space is the differentiating factor that makes them leaders in this field.</p>
-    </div>
-    <div class="tile halfWidth columnTile">
+    <div class="tile">
         <h3> Coincards.ca </h3>
         <img src="/images/logos/coincards.png" />
         <br>
