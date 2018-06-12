@@ -246,6 +246,10 @@ pre {
             margin-bottom: 8px;
             min-width: 300px;
             max-width: 50%;
+            &.squareLogo {
+                min-width: 250px;
+                max-width: 45%;
+            }
         }
     }
 

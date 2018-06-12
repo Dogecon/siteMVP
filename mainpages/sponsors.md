@@ -31,7 +31,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
 <div class="tiles">
     <div class="tile">
         <h3> Ubiq</h3>
-        <img src="/images/logos/ubiq.jpg" />
+        <img src="/images/logos/ubiq.jpg" class="squareLogo" />
         <br>
         <br>
         <p><a href="https://ubiqsmart.com/">Ubiq</a> is a decentralized platform which allows the creation and implementation of smart contracts and decentralized applications. Built upon an improved Ethereum codebase, the Ubiq blockchain acts as a large globally distributed ledger and supercomputer, allowing developers to create decentralized and automated solutions to thousands of tasks which today are carried out by third party intermediaries.</p>
@@ -60,7 +60,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
     </div>
     <div class="tile">
         <h3> Enjin Coin</h3>
-        <img src="/images/logos/enjin.png" />
+        <img src="/images/logos/enjin.png" class="squareLogo" />
         <br>
         <br>
         <p><a href="https://www.enjin.com/">Enjin Coin</a> is a smart gaming cryptocurrency powering a game development ecosystem that will enable developers to create groundbreaking, blockchain-based games - and empower gamers with a wondrous concept - true item ownership. This is a gaming utility token built by a 9 years old, established game industry company processing millions of USD per month in virtual goods sales. It will enable crypto-traders to participate in the $115Bn global game industry market, by allowing them to invest in video games, trade high-valued virtual gaming items - or simply profit as the Enjin Coin-powered gaming meta-economy grows and evolves in size and value.  </p>
@@ -70,12 +70,20 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
 ## Amaze Tier Sponsors
 
 <div class="tiles">
-    <div class="tile">
+    <div class="tile halfWidth columnTile">
         <h3> Coincards.ca </h3>
         <img src="/images/logos/coincards.png" />
         <br>
         <br>
         <p><a href="https://coincards.ca/">Coincards.ca</a> vision is to help Canadians spend their bitcoins at all Canadian retailers, using those retailers existing Gift Card infrastructure. Coincards.ca strives to enable bitcoin adpotion by having Canada’s best selection of Gift Cards available for bitcoin, with the aim of showing retailers that their customers are interested in spending bitcoin.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> 7 Gate Ventures </h3>
+        <img src="/images/logos/7gate.png" class="squareLogo" />
+        <br>
+        <br>
+        <p><a href="http://7gate.vc/">7 Gate Ventures</a> is focused on guiding the organic growth of early stage startups, resulting in investable & sustainable companies.
+        Assembled by a group of serial entrepreneurs specializing in tech, our team holds key industry connections along with a wealth of experience and the foresight to effectively strategize, mentor and scale new businesses. </p>
     </div>
 </div>
 
