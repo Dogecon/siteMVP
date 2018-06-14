@@ -85,6 +85,18 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <p><a href="http://7gate.vc/">7 Gate Ventures</a> is focused on guiding the organic growth of early stage startups, resulting in investable & sustainable companies.
         Assembled by a group of serial entrepreneurs specializing in tech, our team holds key industry connections along with a wealth of experience and the foresight to effectively strategize, mentor and scale new businesses. </p>
     </div>
+    <div class="tile halfWidth columnTile">
+        <h3> CryptoKitties </h3>
+        <img src="/images/logos/cryptokitties2.png" />
+        <br>
+        <br>
+        <p><a href="https://www.cryptokitties.co/">CryptoKitties</a> is the world's most successful blockchain game, accounting for 25% of the traffic on the Ethereum network at peak times. 
+        With a focus on consumer-friendly design, appealing aesthetics, and practical innovation in emerging technology, CryptoKitties has delighted hundreds of thousands of players. 
+        The cultural phenomenon has been featured by The Wall Street Journal, the BBC, The New York Times, Fast Company, and VICE.
+        Unlike cryptocurrencies, such as Bitcoin or ether, CryptoKitties are crypto collectibles that secure ownership of digital art via distributed ledger technology. 
+        Tens of millions of dollars in transactions have already been conducted on the CryptoKitties platform, with some of the most desirable cats selling for over US$100,000.
+ </p>
+    </div>
 </div>
 
 ## Wow Tier Sponsors
@@ -106,7 +118,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
     </div>
     <div class="tile halfWidth columnTile">
         <h3> DCTRL </h3>
-        <img src="/images/logos/dctrl.png" />
+        <img src="/images/logos/dctrl.jpg" />
         <p><a href="https://dctrl.ca/">DCTRL</a> is a 4+ year old community commons devoted to free public education around decentralization and cryptocurrency, as well as a clubhouse for nerds of all types to hang out and BUIDL the future of tech.</p>
     </div>
     <div class="tile halfWidth columnTile">
