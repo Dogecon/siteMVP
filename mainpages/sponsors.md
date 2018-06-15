@@ -24,11 +24,6 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
 
         <p>Presearch has an innovative go-to-market strategy to target the most frequent searchers - web workers - and gain early adoption, on our way to releasing future versions of the open source platform that will utilize a blockchain-based index, curated by the community.</p>
     </div>
-</div>
-
-## Moon Tier Sponsors
-
-<div class="tiles">
     <div class="tile">
         <h3> Ubiq</h3>
         <img src="/images/logos/ubiq.jpg" class="squareLogo" />
@@ -37,6 +32,19 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <p><a href="https://ubiqsmart.com/">Ubiq</a> is a decentralized platform which allows the creation and implementation of smart contracts and decentralized applications. Built upon an improved Ethereum codebase, the Ubiq blockchain acts as a large globally distributed ledger and supercomputer, allowing developers to create decentralized and automated solutions to thousands of tasks which today are carried out by third party intermediaries.</p>
         <p> With a diverse range of specializations and vast experience in both blockchain and traditional financial services,the Ubiq development team is committed to providing the most stable, flexible, and bug-free platform available for the development of enterprise applications. This is accomplished through extensive observation, testing, and improvements to the various blockchain technologies currently available. </p>
     </div>
+    <div class="tile">
+        <h3> RightMesh</h3>
+        <img src="/images/logos/rightmesh.png" />
+        <br>
+        <br>
+        <p><a href="https://www.rightmesh.io/">RightMesh</a>  is on a mission to connect the next billion users without infrastructure. The technology they're building enables developers to retrofit existing mobile applications and build new, P2P mesh applications. </p>
+        <p>This results in a powerful and reliable software solution that can be easily integrated into any application without additional infrastructure or hardware,  putting the power of connectivity into the hands of the people who need it.</p>
+    </div>
+</div>
+
+## Moon Tier Sponsors
+
+<div class="tiles">
     <div class="tile">
         <h3> BitNational</h3>
         <img src="/images/logos/bitnational.jpg" />
@@ -90,12 +98,23 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <img src="/images/logos/cryptokitties2.png" />
         <br>
         <br>
-        <p><a href="https://www.cryptokitties.co/">CryptoKitties</a> is the world's most successful blockchain game, accounting for 25% of the traffic on the Ethereum network at peak times. 
-        With a focus on consumer-friendly design, appealing aesthetics, and practical innovation in emerging technology, CryptoKitties has delighted hundreds of thousands of players. 
-        The cultural phenomenon has been featured by The Wall Street Journal, the BBC, The New York Times, Fast Company, and VICE.
-        Unlike cryptocurrencies, such as Bitcoin or ether, CryptoKitties are crypto collectibles that secure ownership of digital art via distributed ledger technology. 
-        Tens of millions of dollars in transactions have already been conducted on the CryptoKitties platform, with some of the most desirable cats selling for over US$100,000.
- </p>
+        <p><a href="https://www.cryptokitties.co/">CryptoKitties</a> is the world's most successful blockchain game, accounting for 25% of the traffic on the Ethereum network at peak times.
+        With a focus on consumer-friendly design, appealing aesthetics, and practical innovation in emerging technology, CryptoKitties has delighted hundreds of thousands of players. Unlike cryptocurrencies, such as Bitcoin or ether, CryptoKitties are crypto collectibles that secure ownership of digital art via distributed ledger technology.
+        Tens of millions of dollars in transactions have already been conducted on the CryptoKitties platform, with some of the most desirable cats selling for over US$100,000.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Holo </h3>
+        <img src="/images/logos/holo.png" />
+        <br>
+        <br>
+        <p><a href="https://holo.host">Holo</a> is a distributed cloud computing platform built on Holochain. Similar to AirBnB but for cloud hosting, users give up the spare resources, and space on their devices in exchange for Holo fuel, a new type of tokenless cryptocurrency which is tangibly asset-backed by hosting, and distributed computing on Holochain applications. Unlike blockchain, Holochain does not have to use consensus mechanisms like Proof of Work or Proof of Stake, because it is built on a DHT with sharded validation it can process all transactions in parallel, a feature which makes it at minimum 10,000x more efficient (and cheaper) than Ethereum. Think Outside the Blocks.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Symetria </h3>
+        <img src="/images/logos/symetria.png" />
+        <br>
+        <br>
+        <p><a href="https://symetria.io/">Symetria</a> is rolling out an exchange and wallet that uses Personal Blockchain technology to grant the user ultimate security without sacrificing performance. Focusing on transparency, speed, and ease of use, the platform will allow you to trade quickly and easily while being able to easily verify your interactions with the exchange.</p>
     </div>
 </div>
 
@@ -164,5 +183,29 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <br>
         <br>
         <p><a href="https://dogeswag.com/">Dogeswag</a> promotes the Dogecoin subculture through trendy streetwear and fashion parody that you can wear in everyday life. They use quality and comfortable clothing, and the best printer in the US. Every order is made just for you, no mass production, so it’s better for the environment!</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Vancouver Biennale </h3>
+        <img src="/images/logos/biennale.png" class="squareLogo" />
+        <br>
+        <br>
+        <p><a href="https://www.vancouverbiennale.com/">The Vancouver Biennale</a> is a non-profit charitable organization that exhibits great art in public space, creating a catalyst for learning, community engagement, dialogue, and social action. Our mission is to make Public Art accessible, engaging, and motivating to create vibrant and inspired communities. Long-time benefactors of the most beloved public art in our city, and collaborators in the upcoming #ArtProject.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> #ArtProject </h3>
+        <img src="/images/logos/artproject.png" />
+        <p><a href="https://artproject.io">#ArtProject</a> is an open source, massive public art project, connected to the blockchain in real time, which will be installed in a Vancouver park in 2019. Created by Jessica Angel in collaboration with TrueBit, the project will be the starting point for creative interactions and collaborations to happen with creatives from different parts of the world using the blockchain as a creative tool. Join us in shaping this wildly imaginative installation piece!</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Blockstream </h3>
+        <img src="/images/logos/blockstream.jpg" />
+        <p><a href="https://blockstream.com/">Blockstream</a> is the leading provider of blockchain technologies, on the forefront of work in cryptography and distributed systems. From fraud to counterfeiting, from security to confidentiality, from accountability to transparency, our mission is to solve problems that undermine trust in today's financial systems. Dogecoin and Bitcoin have long been fast friends, and it just fits right to have them united.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Unicorn on Wall Street </h3>
+        <img src="/images/logos/unicorn.png" class="squareLogo" />
+        <br>
+        <br>
+        <p><a href="http://unicornonwallstreet.com/">Unicorn on Wall Street</a> Providing consulting and logistic services for a crypto world -- long time contributor to the DCTRL Community Commons, and provider of electrifying crypto-asset education sessions both at the space and one-on-one.</p>
     </div>
 </div>
