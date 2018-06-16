@@ -116,6 +116,20 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <br>
         <p><a href="https://symetria.io/">Symetria</a> is rolling out an exchange and wallet that uses Personal Blockchain technology to grant the user ultimate security without sacrificing performance. Focusing on transparency, speed, and ease of use, the platform will allow you to trade quickly and easily while being able to easily verify your interactions with the exchange.</p>
     </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Ethereum Classic Summit </h3>
+        <img src="/images/logos/etcsummit.jpg" />
+        <br>
+        <br>
+        <p><a href="https://etcsummit.com/">The Ethereum Classic Summit </a> is a yearly summit of all things Ethereum Classic (ETC). ETC stands as a beacon demonstrating that blockchains can be successful while maintaining strong adherence to the principles that make blockchain work. Come join us and learn about both the exciting developments and business side of ETC.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Symetria </h3>
+        <img src="/images/logos/vanbex.jpg" />
+        <br>
+        <br>
+        <p><a href="https://vanbex.com/">Vanbex</a> offers an array of blockchain-focused services to help you shape the future of your company. Since 2013, Vanbex has been empowering bold ideas on the blockchain with deep industry experience and comprehensive consulting. </p>
+    </div>
 </div>
 
 ## Wow Tier Sponsors
@@ -207,5 +221,19 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <br>
         <br>
         <p><a href="http://unicornonwallstreet.com/">Unicorn on Wall Street</a> Providing consulting and logistic services for a crypto world -- long time contributor to the DCTRL Community Commons, and provider of electrifying crypto-asset education sessions both at the space and one-on-one.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> First Coin Capital </h3>
+        <img src="/images/logos/firstcoin.png" />
+        <br>
+        <br>
+        <p><a href="https://www.firstcoin.com/">First Coin Capital</a> assists companies that seek to raise capital through initial coin and initial token offerings by providing technology development and advisory services.</p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> iComplyICO </h3>
+        <img src="/images/logos/icomply.jpg" class="squareLogo" />
+        <br>
+        <br>
+        <p><a href="https://icomplyico.com/">iComplyICO</a> is an all-in-one platform that expertly guides you through the steps of launching your ICO (Initial Coin Offering) or token sale. We’ve created a platform with distinct dashboards for both issuers and investors, allowing you to connect with the best legal, due diligence, and assurance partners to support you through your ICO. Using any decentralized or blockchain protocol, be confident knowing ICO compliance is a priority from the start.</p>
     </div>
 </div>
