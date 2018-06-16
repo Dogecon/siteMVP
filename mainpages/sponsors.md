@@ -111,10 +111,10 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
     </div>
     <div class="tile halfWidth columnTile">
         <h3> Symetria </h3>
-        <img src="/images/logos/symetria.png" />
+        <img src="/images/logos/symetria.jpg" />
         <br>
         <br>
-        <p><a href="https://symetria.io/">Symetria</a> is rolling out an exchange and wallet that uses Personal Blockchain technology to grant the user ultimate security without sacrificing performance. Focusing on transparency, speed, and ease of use, the platform will allow you to trade quickly and easily while being able to easily verify your interactions with the exchange.</p>
+        <p>Launching in 2018, <a href="https://welcome.symetria.io/?utm_source=dogecon">Symetria</a> will be the first cryptocurrency wallet & exchange to bring cryptographic proof of integrity to a centralized service. We work with you, building a Personal Blockchain to provide an interface to decentralized networks like Bitcoin, Dogecoin and Ethereum, all in an intuitive, easy to use package that we think you’ll love.</p>
     </div>
     <div class="tile halfWidth columnTile">
         <h3> Vanbex </h3>
