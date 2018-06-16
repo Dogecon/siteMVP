@@ -207,7 +207,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
     </div>
     <div class="tile halfWidth columnTile">
         <h3> #ArtProject </h3>
-        <img src="/images/logos/artproject.png" />
+        <img src="/images/logos/artproject.jpg" />
         <p><a href="https://artproject.io">#ArtProject</a> is an open source, massive public art project, connected to the blockchain in real time, which will be installed in a Vancouver park in 2019. Created by Jessica Angel in collaboration with TrueBit, the project will be the starting point for creative interactions and collaborations to happen with creatives from different parts of the world using the blockchain as a creative tool. Join us in shaping this wildly imaginative installation piece!</p>
     </div>
     <div class="tile halfWidth columnTile">
