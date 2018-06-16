@@ -117,18 +117,18 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <p><a href="https://symetria.io/">Symetria</a> is rolling out an exchange and wallet that uses Personal Blockchain technology to grant the user ultimate security without sacrificing performance. Focusing on transparency, speed, and ease of use, the platform will allow you to trade quickly and easily while being able to easily verify your interactions with the exchange.</p>
     </div>
     <div class="tile halfWidth columnTile">
-        <h3> Ethereum Classic Summit </h3>
-        <img src="/images/logos/etcsummit.jpg" />
-        <br>
-        <br>
-        <p><a href="https://etcsummit.com/">The Ethereum Classic Summit </a> is a yearly summit of all things Ethereum Classic (ETC). ETC stands as a beacon demonstrating that blockchains can be successful while maintaining strong adherence to the principles that make blockchain work. Come join us and learn about both the exciting developments and business side of ETC.</p>
-    </div>
-    <div class="tile halfWidth columnTile">
-        <h3> Symetria </h3>
-        <img src="/images/logos/vanbex.jpg" />
+        <h3> Vanbex </h3>
+        <img src="/images/logos/vanbex.jpg"  class="squareLogo" />
         <br>
         <br>
         <p><a href="https://vanbex.com/">Vanbex</a> offers an array of blockchain-focused services to help you shape the future of your company. Since 2013, Vanbex has been empowering bold ideas on the blockchain with deep industry experience and comprehensive consulting. </p>
+    </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Ethereum Classic Summit </h3>
+        <img src="/images/logos/etcsummit.jpg" class="squareLogo" />
+        <br>
+        <br>
+        <p><a href="https://etcsummit.com/">The Ethereum Classic Summit </a> is a yearly summit of all things Ethereum Classic (ETC). ETC stands as a beacon demonstrating that blockchains can be successful while maintaining strong adherence to the principles that make blockchain work. Come join us and learn about both the exciting developments and business side of ETC.</p>
     </div>
 </div>
 
@@ -227,7 +227,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <img src="/images/logos/firstcoin.png" />
         <br>
         <br>
-        <p><a href="https://www.firstcoin.com/">First Coin Capital</a> assists companies that seek to raise capital through initial coin and initial token offerings by providing technology development and advisory services.</p>
+        <p><a href="https://www.firstcoin.com/">First Coin Capital</a> assists companies that seek to raise capital through initial coin and initial token offerings by providing technology development and advisory services. They provide technical, marketing, and legal services to enable a successful business to emerge in the cryptocurrency ecosystem.</p>
     </div>
     <div class="tile halfWidth columnTile">
         <h3> iComplyICO </h3>
