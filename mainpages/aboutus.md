@@ -79,20 +79,20 @@ Sign up to volunteer in exchange for a ticket on our "Get Involved" page.
 For all media related inquiries, including becoming a media partner or scheduling an interview, please [contact carpelunam@gmail.com](mailto:carpelunam@gmail.com).
 
 Highlight of media and social media mentions:
-* [NewsBTC](https://www.newsbtc.com/2018/06/10/dogecon-vancouver-2018/)
-* [Vancouver Is Awesome](https://www.vancouverisawesome.com/2018/06/19/vancouver-celebrates-crypto-culture-with-dogecon/)
-* [Business Insider](http://markets.businessinsider.com/currencies/news/dogecon-bringing-blockchain-memes-to-vancouver-6275461)
-* [Dogecoin Subreddit Sticky Post](https://www.reddit.com/r/dogecoin/comments/8n5bpv/attention_all_shibes_and_shibettes_dogecon_a/)
+* [NewsBTC](https://www.newsbtc.com/2018/06/10/dogecon-vancouver-2018/){:target="_blank"}
+* [Vancouver Is Awesome](https://www.vancouverisawesome.com/2018/06/19/vancouver-celebrates-crypto-culture-with-dogecon/){:target="_blank"}
+* [Business Insider](http://markets.businessinsider.com/currencies/news/dogecon-bringing-blockchain-memes-to-vancouver-6275461){:target="_blank"}
+* [Dogecoin Subreddit Sticky Post](https://www.reddit.com/r/dogecoin/comments/8n5bpv/attention_all_shibes_and_shibettes_dogecon_a/){:target="_blank"}
 
 
 <br/>
 Other useful links:
-* [Facebook Event](https://www.facebook.com/events/770455279819861/)
-* [Twitter Account](https://twitter.com/DogeconVan)
-* [Media Blurb](https://docs.google.com/document/d/1pHj8ZwyldIIyWvXwdJc9Ry1wlXpDa8lP0fPm5M0qsfU/edit)
-* [Dogecon blog](http://medium.com/dogecon)
-* [Decentralized Dance Party's media page](http://www.decentralizeddanceparty.com/for-the-media/)
-* [The first Decentralized Doge Party (2014)](https://www.youtube.com/watch?v=jUpW18Exw8g)
+* [Facebook Event](https://www.facebook.com/events/770455279819861/){:target="_blank"}
+* [Twitter Account](https://twitter.com/DogeconVan){:target="_blank"}
+* [Media Blurb](https://docs.google.com/document/d/1pHj8ZwyldIIyWvXwdJc9Ry1wlXpDa8lP0fPm5M0qsfU/edit){:target="_blank"}
+* [Dogecon blog](http://medium.com/dogecon){:target="_blank"}
+* [Decentralized Dance Party's media page](http://www.decentralizeddanceparty.com/for-the-media/){:target="_blank"}
+* [The first Decentralized Doge Party (2014)](https://www.youtube.com/watch?v=jUpW18Exw8g){:target="_blank"}
 
 <br/>
 
