@@ -241,6 +241,6 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <img src="/images/logos/printprint.jpg" />
         <br>
         <br>
-        <p><a href="https://printprint.ca/">Printprint.ca</a> specialize in simple, fast and affordable printing as one of the original price-leaders in the Vancouver printing market. Printprint's top-quality services range from plastic cards to large format printing.</p>
+        <p><a href="https://printprint.ca/">Printprint.ca</a> specializes in simple, fast and affordable printing as one of the original price-leaders in the Vancouver printing market. Printprint's top-quality services range from plastic cards to large format printing.</p>
     </div>
 </div>
