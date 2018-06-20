@@ -236,4 +236,11 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <br>
         <p><a href="https://icomplyico.com/">iComplyICO</a> is an all-in-one platform that expertly guides you through the steps of launching your ICO (Initial Coin Offering) or token sale. We’ve created a platform with distinct dashboards for both issuers and investors, allowing you to connect with the best legal, due diligence, and assurance partners to support you through your ICO. Using any decentralized or blockchain protocol, be confident knowing ICO compliance is a priority from the start.</p>
     </div>
+    <div class="tile halfWidth columnTile">
+        <h3> Printprint.ca </h3>
+        <img src="/images/logos/printprint.jpg" />
+        <br>
+        <br>
+        <p><a href="https://printprint.ca/">Printprint.ca</a> specialize in simple, fast and affordable printing as one of the original price-leaders in the Vancouver printing market. Printprint's top-quality services range from plastic cards to large format printing.</p>
+    </div>
 </div>
