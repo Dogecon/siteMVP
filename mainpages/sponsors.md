@@ -83,7 +83,7 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <img src="/images/logos/coincards.png" />
         <br>
         <br>
-        <p><a href="https://coincards.ca/">Coincards.ca</a> vision is to help Canadians spend their bitcoins at all Canadian retailers, using those retailers existing Gift Card infrastructure. Coincards.ca strives to enable bitcoin adpotion by having Canada’s best selection of Gift Cards available for bitcoin, with the aim of showing retailers that their customers are interested in spending bitcoin.</p>
+        <p><a href="https://coincards.ca/">Coincards.ca</a> vision is to help Canadians spend their bitcoins at all Canadian retailers, using those retailers existing Gift Card infrastructure. Coincards.ca strives to enable bitcoin adoption by having Canada’s best selection of Gift Cards available for bitcoin, with the aim of showing retailers that their customers are interested in spending bitcoin.</p>
     </div>
     <div class="tile halfWidth columnTile">
         <h3> 7 Gate Ventures </h3>
