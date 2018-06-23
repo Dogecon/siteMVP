@@ -244,3 +244,11 @@ The spirit of Dogecoin has always been about sharing the wealth, and we’ve see
         <p><a href="https://printprint.ca/">Printprint.ca</a> specializes in simple, fast and affordable printing as one of the original price-leaders in the Vancouver printing market. Printprint's top-quality services range from plastic cards to large format printing.</p>
     </div>
 </div>
+
+## Yum Tier Sponsors
+
+Our Yum Tier Sponsor Restaurants in the vicinity of our venues have offered deals exclusive to Dogecon attendees. Explore the below map to find their offers.
+
+<div class="horizontallyCenter">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1Gcaym7HIfDUV0OX2SKlUCLwvGNbYbYa5" width="800" height="450"></iframe>
+</div>
