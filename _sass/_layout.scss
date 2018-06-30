@@ -93,6 +93,14 @@ html, body {
   }
 }
 
+.banner {
+  color: $theme-color3;
+  background-color: $theme-color1;
+  font-size: 1.8em;
+  padding: 15px 10px;
+  text-align: center;
+}
+
 @media screen and (min-width:$on-laptop)  {
 
   .site-header {
