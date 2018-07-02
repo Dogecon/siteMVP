@@ -198,41 +198,72 @@ Individual customers for Blockopticon’s Sousveillance Edition can contact thei
 
 ## Chat Transcript: “Whale School”
 **BearWitness:** Heyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyhey!
+
 **TopHatGuy:** NO!!! TTP coin is crashing! I went all in!
+
 **Lucy333:** LOL never go in. That is the moral of this part of the story. Time for milk and cookies.
+
 **IHodled:** The only coin you should go in on is TotalScamCoin. It has guaranteed returns and great referral fees.
+
 **IAmABotNoReally:** IHodled has been kickbanned for pumping. They can return in 144 blocks.
+
 **Lucy333:** Harsh but harsh, my bot. Hey TopHatGuy what did you lose so far?
+
 **TopHatGuy:** Not quite everything. There’s a bounce. It will come back. I’m hodling.
+
 **IHodled2:** You rang? Fools. You cannot banish me from this place.
+
 **RealNews:** TopHatGuy - you gotta sell. It’s gonna go to zero. I know nothing ever really goes to zero. But this is going to go to zero. There are drone adverts warning people to dump TTP. 
+
 **ICOCEO:** What happened to TTP? That’s a gilt-edged coin. It’s in loads of baskets.
+
 **IHodled2:** Some of those baskets are dumping because of the way the Doge quest is affecting social media analytics. It’s the best time to buy TotalScamCoin instead, which is unaffected.
+
 **IAmABotNoReally:** IHodled2 has been kickbanned for pumping. They can return in 144 blocks.
+
 **MrJones:** My basket is tanking. I cannot believe it. Dismay! This is not good. I blame you guys.
+
 **Lucy333:** Sorry MrJones you signed our disclaimer before being let in to this chat group. No.
+
 **TopHatGuy:** I invested! I am an investor! I have rights! And I lost everything! I’m suing.
+
 **IHodled3:** Mmmmmmmmmhhhhhhhhhhhmmmmmmmmmmmmm.
+
 **TopHatGuy:** Go publish your private keys, IHodled. If value, then right.
+
 **IHodled3:** You lost all your value though, so no right. Hahahahahahahahahahahahahahahahaha.
+
 **IAmABotNoReally:** IHodled3 has been kickbanned for mockery. They can return in 144 blocks.
+
 **TopHatGuy:** I’m suing. I contacted one of the lawyer AI DAOs and they’re going to take my case.
+
 **Lucy333:** Suing who? The lawyerDAO is ripping you off. It’s evil AI.
+
 **MrJones:** What’s the legal DAO address? I’m in. We can get a class action going.
+
 **TopHatGuy invited LawDAOBot874 to this chat.**
+
 **LawDAOBot874:** This is a bot message. If you would like this warning to be removed contact your local legislators. Your action has been placed on the prediction market to evaluate its possibility of success. To join, send coin to the address that created this bot.
+
 **ICOCEO:** Yeah sue who? What are you lunatics up to?
+
 **BearWitness:** Yoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyoyo!
+
 **TopHatGuy:** Any of the Doge quest parties. They’re to blame.
+
 **Lucy333:** That’s…. not how this works. You! Signed! The! Disclaimer!
+
 **DumpBot3000:** DUMP TotalScamCoin NOW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 **IAmABotNoReally:** DumpBot3000 has been kickbanned for attempting to organize a dump.
+
 **TopHatGuy:** See? Even the bot knows we have a case. Good bot: tip 100.
+
 **ICOCEO:** smh. What happened to us? We used to be cool. I’m out.
 
 <br>
 
-##Blog Post: The Opposite of a Fork is a Spoon
+## Blog Post: The Opposite of a Fork is a Spoon
 What’s happening BlockIdols fans!
 
 So we noticed that some of you weren’t happy with the fork of NuBlockIdols from the existing BlockIdols sidechain. When we say “weren’t happy”, we mean “tanked the price of both tokens”. We thought that NuBlockIdols would give a new audience the new virtual idol singers they wanted, while maintaining the original chain as BlockIdolsClassic would allow existing fans to hodl their investment in characters they have created and created content with in song, animation, VR, 3D printing and holography.
