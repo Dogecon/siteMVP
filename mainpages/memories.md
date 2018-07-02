@@ -20,66 +20,131 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 # Dogecon memories
 
 {:.shrinkpic}
-![Moses Shibe](/images/memories/valuepanel.jpg)
+![memories](/images/memories/valuepanel.jpg)
   <figcaption> The Value Panel at the DogeTalks </figcaption>
 <br>
 
 {:.shrinkpic}
-![Moses Shibe](/images/memories/griffgreen.jpg)
-  <figcaption> Griff Green joining the State of the Decentralized Union </figcaption>
-<br>
-
-{:.shrinkpic}
-![Moses Shibe](/images/memories/wosk2.jpg)
-  <figcaption> The future will not be centralized </figcaption>
-<br>
-
-{:.shrinkpic}
-![Moses Shibe](/images/memories/mattppidebate.jpg)
-  <figcaption> Matt (B)Lockyer and Pied Piper Coin CEO debating over ETH and ETC </figcaption>
-<br>
-
-{:.shrinkpic}
-![Moses Shibe](/images/memories/dogehead.jpg)
-  <figcaption> Moon is successfully claimed by the Decentralized Dance Party crowd with the Doge Head </figcaption>
-<br>
-
-{:.shrinkpic}
-![Moses Shibe](/images/memories/dance.jpg)
-  <figcaption>  </figcaption>
-<br>
-
-{:.shrinkpic}
-![Moses Shibe](/images/memories/ddp1.jpg)
-  <figcaption> Crowd gathering around the rocket and the moon for the Decentralized Dance Party </figcaption>
-<br>
-
-{:.shrinkpic}
-![Moses Shibe](/images/memories/garywosk.jpg)
-  <figcaption> Gary addressing the State of the Decentralized Union </figcaption>
-<br>
-
-{:.shrinkpic}
-![Moses Shibe](/images/memories/marioandmike.jpg)
+![memories](/images/memories/marioandmike.jpg)
   <figcaption> Mike and Mario, two of the exhibitors at the Dogecon's expo </figcaption>
 <br>
 
 {:.shrinkpic}
-![Moses Shibe](/images/memories/passes.jpg)
-  <figcaption> Dogecon Passes </figcaption>
+![memories](/images/memories/workshop.jpg)
+  <figcaption> Axiom Zen hosting the Cryptokitties workshop </figcaption>
 <br>
 
 {:.shrinkpic}
-![Moses Shibe](/images/memories/jessicaangel.jpg)
+![memories](/images/memories/mattppidebate.jpg)
+  <figcaption> Matt (B)Lockyer and Pied Piper Coin CEO debating over ETH and ETC </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/puzzle.jpg)
+  <figcaption> Doge lovers attempt to complete a jigsaw puzzle </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/ccc.jpg)
+  <figcaption> Alex giving instructions to the DogeQuest teams in front of Vancouver's Chinese Cultural Center </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/garystickers.jpg)
+  <figcaption> Stickers ready for the party </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/shibe.jpg)
+  <figcaption> Much curiosity </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/quest1.jpg)
+  <figcaption> A DogeQuest team attempts to solve a puzzle for the location of the next clue.  </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/rocketwosk.jpg)
+  <figcaption> The Doge rocket placed in the center of the Wosk center as people enter the venue </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/wosk2.jpg)
+  <figcaption> The future will not be centralized </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/garywosk.jpg)
+  <figcaption> Gary addressing the State of the Decentralized Union </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/griffgreen.jpg)
+  <figcaption> Griff Green joining the State of the Decentralized Union </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/dogehead0.jpg)
+  <figcaption> Scott and Mike doing their final touches on the Doge Head </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/ddp1.jpg)
+  <figcaption> Crowd gathering around the rocket and the moon for the Decentralized Dance Party (DDP) </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/dogehead.jpg)
+  <figcaption> Moon is successfully claimed by the DDP crowd with the Doge Head </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/dogehead2.jpg)
+  <figcaption> The sign says it all </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/dogehead3.jpg)
+  <figcaption> The Doge Head on Vancouver's art gallery's lion statue </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/ddp2.jpg)
+  <figcaption> The party goes on </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/dance.jpg)
+  <figcaption>  </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/diy.jpg)
+  <figcaption> DIY stickers and name tags </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/postcards.jpg)
+  <figcaption> Sponsor postcards </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/jessicaangel.jpg)
   <figcaption> Jessica Angel explains her upcoming art project to a crowd chilling at the Waldorf </figcaption>
 <br>
 
 {:.shrinkpic}
-![Moses Shibe](/images/memories/puzzle.jpg)
-  <figcaption> Doge lovers attempt to complete the puzzle </figcaption>
+![memories](/images/memories/bus.jpg)
+  <figcaption> Bus taking the partying crowd to Stanley Park for a jump in the ocean </figcaption>
 <br>
 
 {:.shrinkpic}
-![Moses Shibe](/images/memories/rocketwosk.jpg)
-  <figcaption> The Doge rocket placed in the center of the Wosk center as people enter the venue </figcaption>
+![memories](/images/memories/passes.jpg)
+  <figcaption> Dogecon Passes </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/roast.jpg)
+  <figcaption> Our roast of coffee </figcaption>
 <br>
