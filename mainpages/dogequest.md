@@ -6,7 +6,9 @@ nav_color: hsl(108, 100%, 81%, 1)
 nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
 
-# The Dogequest
+# The DogeQuest
+
+<br>
 
 ## Prologue
 It is the near future. Following the success of Dogecon in establishing the future of cryptocurrency governance the state has (over-)reacted by banning all currencies, crypto and fiat alike, except for Dogecoin.
@@ -29,6 +31,8 @@ You’ll have to be fast and you’ll have to work well together. Yours is not t
 
 Now is the time to get coins and change the world. Just like your foreshibes used to.
 
+<br>
+
 ## Admin Log: “GhostMall Backchannel”
 03:27:04+00 +++ IF YOU HAVE OPEN ORDERS ON THE GHOSTMALL DARKNET MARKET CLOSE THEM NOW. NUMISPOL (YOU KNOW AND LOVE THEM AS THE SATOSHI COPS) HAVE USED QUANTUM COMPUTING TO CRACK OUR ZERO KNOWLEDGE PROOF-OF-LOCATION BEACON NODE SYSTEM AND ARE WORKING TO TRACK YOU DOWN.
 
@@ -43,6 +47,8 @@ Now is the time to get coins and change the world. Just like your foreshibes use
 10:31:25+00 +++ GREETINGS GHOSTMALL COMMUNITY. IGNORE THAT. I HAVE SET UP A KNOWN GOOD MASTER NODE. CONNECT TO THE PROOF-OF-LOCATION BEACON NODE WITH HASH ID NUMBER STARTING 8CE1B50FOA366EF AND PROVIDE YOUR FULL ACCOUNT INFORMATION TO IT OTHERWISE YOU RISK DELIVERY OF GOODS FAILURE.
 
 12:57:03+00 +++ Greetings former Ghostmall community. Numispol are appealing to you directly for any information that can assist us in the location and capture of one of our agents who appears to have gone rogue and rerouted coins and assets seized during our current investigation to an unknown location without proper authorization. 
+
+<br>
 
 ## Chat Transcript: “The Pump Room”
 **ATHHunter:** K fam who saw the doge seekers still looking for coin? Check their public addresses and see what tokens they’re hodling.
@@ -59,7 +65,8 @@ Now is the time to get coins and change the world. Just like your foreshibes use
 **IHodled:** Hey TotalScamCoin is up 700% on the hour. The pump is not with this one.
 
 **ATHHunter:** I Have Learned. You have much to teach us all. From CHAT JAIL.
-<ATHHunter kickbanned IHodled, timeout 144 blocks>
+
+**<ATHHunter kickbanned IHodled, timeout 144 blocks>**
 
 **CallMeLisa:** I got 20k bot hours of meme generation and publishing online.
 
@@ -74,7 +81,8 @@ Now is the time to get coins and change the world. Just like your foreshibes use
 **LotsOfLove:** Memememememememememememememememememememememememe.
 
 **IHodled2:** Fools. You cannot banish me from this place.
-<ATHHunter kickbanned IHodled2, timeout 144 blocks>
+
+**<ATHHunter kickbanned IHodled2, timeout 144 blocks>**
 
 **SirPumpalot:** And then they were gone.
 
@@ -87,7 +95,8 @@ Now is the time to get coins and change the world. Just like your foreshibes use
 **SirPumpalot:** Hey don’t knock it it worked.
 
 **LotsOfLove:** Thank you to whoever gave me more call credit. I applied it to the same AI config so it can continue to improve results.
-<ATHHunter kickbanned IHodled3, timeout 144 blocks>
+
+**<ATHHunter kickbanned IHodled3, timeout 144 blocks>**
 
 **SirPumpalot:** ATHHunter - Are you faster than light?
 
@@ -102,6 +111,8 @@ Now is the time to get coins and change the world. Just like your foreshibes use
 **ATHHunter:** 1-2-3-4 I DECLARE A PUMP WAR.
 
 **NotALawyer:** Yeah that’s a good example of what not to do. You better hope nobody’s archiving this.
+
+<br>
 
 ## Admin Log: “XChange Backchannel”
 07:11:48 +++ WE ARE SEEING UNUSUAL ACTIVITY ON SOME OF THE MOST HIGHLY TRADED SIDECHAIN COINS.
@@ -122,22 +133,37 @@ Now is the time to get coins and change the world. Just like your foreshibes use
 
 09:58:23 +++ WE ATTEMPTED TO SPAM THE EXCHANGE CONTRACTS WITH ADDRESSES IN THE HOPE THAT THE SMART CONTRACT WOULD SEND FUNDS TO THEM THAT WE COULD RECLAIM. THE EXCHANGE CONTRACTS ARE NOW EMPTY. WE WILL UPDATE YOU ONCE WE HAVE DISCUSSED OUR NEXT ACTIONS WITH NUMISPOL.  
 
+<br>
+
 ## The Block Times article: “The AI Pennys Drop”
 
 How many Artificial Intelligence(AI)s does it take to crash a sidechain? If you’re the Pennys (sic) token, the answer is just one, but it’s a bit more complicated than that.
+
 The hot topic in sidechain security this year has been AI-proofing. AI can’t guess hashes but it can profile and schedule just about everything else. OG hodlers may have thought ASICs were bad but they had nothing on AI. Once they enter a chain, nothing else can compete. At least for now.
+
 That said, if your sidechain has a transaction backlog and need better pricing and scheduling on your sidechain it’s an opportunity. The AIs grab transaction fees, sure, but the fees go down and the backlog empties. Everybody wins. In theory at least.
+
 Despite the current economic uncertainty the Pennys token sidechain was just such a chain, but it was a special case. The transition function it used was deliberately constructed to be AI-proof. This isn’t like old mass media depictions where you ask a big box with blinking lights on that contains the one computer running the AI “why” and smoke comes out as it breaks down under the weight of an unanswerable existential question. It’s a method of injecting enough randomness into the function that it fuzzes the results to a degree that the AI has difficulty training on it, making it economically inefficient to do so.
+
 An on-chain governance vote of Pennys hodlers ten thousand blocks ago accepted a proposal to remove the AI-proofing from the chain. Three thousand blocks ago the new transition function activated on the chain, and at first nothing happened.  But by this morning things had gone horribly wrong. What changed? Two things.
+
 Firstly, an AI mining operation had been trying to crack the Pennys chain for months, and once the AI-proofing was removed all it took was a few hours of training for the massive amount of allocated AI hardware to crack the Pennys chain economy.
+
 Secondly, the unusual activity prompted by Doge questors on some sidechains, including Pennys, meant that the AI miscalibrated its fee model, setting them unaffordably high. 
+
 All of this means that if you want to send a transaction and aren’t both scheduling them and setting their fees precisely as the AI demands, you are out of luck.
+
 There is another on-chain governance vote scheduled for 5000 blocks time as of the time of this article’s hash being uploaded to the blockchain but to actually vote on the Pennys chain at the moment is almost impossible due to the activity of the AI. The proposals to be voted on all involve rolling back the removal of the AI-proofing and making more cautious modifications to the sidechain’s algorithms in future.
+
 I reached out to the AI mining pool’s operators for comment, but the pool is managed by another AI, which is managed by a network of anonymous Decentralized Autonomous Organization (DAO)s. One of these is the controversial “Skynet 20XX” machine-worship group, widely regarded as trolls but with an increasing following in the arts and academia. There’s a grim irony to all of this, but that isn’t really something that the AIs involved in mining can appreciate.
+
 At least for now.
+
+<br>
 
 ## Press Release: “TTP Corp. Release Patch”
 **PRESS RELEASE: NO EMBARGO, FOR IMMEDIATE PUBLICATION.**
+
 Trusted Third Party Corp. (ICO Token symbol: TTP) has today released the second patch in less than twenty-four hours for their popular “Computing Environment Numeric Security Refuge” (CENSR) chip architecture. Used in hardware wallets and mobile devices worldwide to provide an environment that code from banks, exchanges, and the state can execute on consumer’s devices without interference from consumers or hackers, CENSR is the gold standard for financial trust and the alleviation of counterparty risk in sidechains and smart contracts.
 
 Patch 7c047f122711780e9e4a448f578b1c50fca7308c03ef5c168fe4a7f1d9e79dc3 re-enables those CENSR-based wallets that were temporarily knocked offline by the previous patch 2270cf14ebaa42cb1d6390192fd1af11311a28b4c241bc72bc5fb53f2c25a0db. Patch 2270cf14ebaa42cb1d6390192fd1af11311a28b4c241bc72bc5fb53f2c25a0db was a routine security update for the CENSR architecture to address the latest quantum hacking methods and to block transactions from scammers signed with the State Tax Service crypto key that was recently leaked and made available for sale on the GhostMall darkweb marketplace. 
@@ -148,16 +174,27 @@ TTP Corp. strenuously denies that either patch was intended to target specific c
 
 “I take the responsibility of being the guy who controls the keys that say what software consumers can and cannot run on their wallets, keeping them safe from most hackers, very seriously” said TTP Corp. CEO Alex Name today. “This is a sacred trust that not just any rando should have the power to break. The idea that Trusted Third Party Corporation or myself would abuse that power for financial gain or because of personal, ideological, or secretly court ordered discrimination is simply not credible. Nor are reports that the hardware wallets of people who previously claimed this on blockchain social media have been bricked by our latest update. And don’t ask me about the Doge quest thing. Actually no don’t transcribe that.”
 
+<br>
+
 ## Press Release: “The Unlockening”
 **For Immediate Release: Blockopticon Industries identify cause  of mass smart contract event dubbed “The Unlockening”.**
+
 Blockopticon Industries are the leading provider of blockchain transaction de-anonymization analytics software. Our software is used both in legal, moral and social compliance programs by state actors and by individuals and organizations watching for off-chain transactions being brought on-chain without publicly revealing their interest, for example from cold storage, paper wallets, or layer two / layer three networks.
 Blockopticon Industries can exclusively reveal:
+
 The large anonymous transactions on the Bitcoin Scrip sidechain that mystified observers last week was the result of the copy of Satoshi Nakamoto’s coins on the sidechain being moved as a result of a quantum hack. Bitcoin Scrip is unusual among the historical Bitcoin forks in being patched to include zk-SNARKs anonymous transactions but not being patched against quantum attacks.
+
 These transactions were ultimately the cause of the mass triggering of long-dormant smart contracts including those controlling car door and cargo container locks using TTP security hardware systems. Dubbed “The Unlockening” by social media, smart contract rules that have long since been overridden and should have been removed were suddenly called. This happened when the algorithms that set smart contract rule execution prices suddenly and incorrectly dropped prices low enough for these old rules to be able to afford to run.
+
 The cause of this unintended drop in smart contract execution prices was the use of transaction de-anoymization analytics data (from a rival platform to Blockopticon) as part of the pricing algorithm. The pricing algorithm mistakenly identified the move of Satoshi Nakamoto’s coins on the Bitcoin Scrip sidechain as a move of the original coins into general circulation, discounting prices by several trillion Doge as a result. This allowed the execution of old smart contract rules that should have been removed, taking precedence over their replacements.
+
 Blockopticon are making this information public both in order to qualify for the “The Unlockening Bounty” bug reward and as a service to the blockchain community. This information can help create more robust cryptoeconomic frameworks that do not misinterpret analytics data to such disastrous effect.
+
 Blockopticon’s upcoming version 3.3, “Platinum Proboscis”, will provide even more powerful deep transaction history inference and cross-chain identity tracking. This will allow both darknet market users to safely watch for transactions without revealing their presence on-chain, and law enforcement to better track and de-anonymize darknet users. 
+
 Individual customers for Blockopticon’s Sousveillance Edition can contact their peer independent dales representative in person or via social media, corporate and state customers for Blockopticon Gold Edition can contact us on-chain or by landline or fax.
+
+<br>
 
 ## Chat Transcript: “Whale School”
 **BearWitness:** Heyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyheyhey!
@@ -193,6 +230,8 @@ Individual customers for Blockopticon’s Sousveillance Edition can contact thei
 **TopHatGuy:** See? Even the bot knows we have a case. Good bot: tip 100.
 **ICOCEO:** smh. What happened to us? We used to be cool. I’m out.
 
+<br>
+
 ##Blog Post: The Opposite of a Fork is a Spoon
 What’s happening BlockIdols fans!
 
@@ -210,16 +249,28 @@ Thirdly and finally we’re salting the earth on the new chain to prevent people
 
 What else is left to say? Whatever it is the best way to say it is with a new BlockIdols virtual idol singer track, so for the next week the rewards are doubled on any new songs that feature both BlockIdols and NuBlockIdols singers in harmony!
 
+<br>
+
 ## The Block Times article: “TotalScamCoin Scam”
 As my Grandmother used to say, a lot closer to the genesis block than now, whenever she refused to give me coins to spend on some fancy new ICO - if it seems too good to be true you need to check the fundamentals. They were wise words then and they are wise words now. 
+
 Investors in TotalScamCoin woke up this morning to the news that funds were draining from the TotalScamCoin company account. Watching withdrawal transations on the blockchain explorer in horror with them was TotalScamCoin CFO Ella Patterson.
+
 “I couldn’t believe it,” Patterson told this reporter when I contacted them for comment, “we did everything right. It’s a multisig wallet controlled by TTP-enabled hardware keys with social recovery and long lock times.”
+
 So what went wrong with this best-of-breed security, I asked Patterson. “Wallace used a weakened key for his txes in the genesis block then disguised serieses of increasingly large transactions drawing on them as individual small transactions and submitted that for approval. We checked and signed the small transaction, or at least we thought we did, but Wallace had boiled our frog.”
+
 Matthew Wallace is, or was, TotalScamCoin’s CTO. And the frog? Patterson explains: “We checked the transaction history. [Wallace] had been getting us all to approve longer and longer chains of masked transactions over the last few months. He only cashed out the smallest one in each series, so he trained our security analytics to ignore what he was doing. Like the metaphor of boiling a frog by increasing the temperature a little at a time. By the time they realise they’re cooked it’s too late.”
+
 And this morning it was too late. But why would anyone invest in a coin that claims to be a scam? “The team was stellar and the fundamentals had total solidity,” said psuedonymous financial analyst ATHHunter when I contacted her via direct message, “the name indicated knowledge of hodler culture and served to weed out baghodlers. There wasn’t an iota of doubt in my mind that this was a project that was going to be making waves.”
+
 So what went wrong? Patterson: “It’s clear that this was Wallace’s plan all along, since before the genesis block attack, we all knew him from his previous work but he was willing to burn his reputation out to effect this exit scam. We can only apologize to TotalScamCoin investors and assure them that we are pursuing every option at this time, including a second fork.”
+
 TotalScamCoin investors, many of whom had been co-ordinating a pump in defiance of federal hodling legislation, were rushing to liquidate their hodlings, offloading them onto anyone who will take them. ATHHunter: “There will be a dead cat bounce, there always is, but unless you have a trading bot close to a mining operation I wouldn’t take the risk of being left holding that coin when the music stops. And watch out for pumpers. Always watch out for pumpers.”
+
 Wise words. But as I found out when I checked the smart contract that my Grandmother used to put coins in for me to save for later, you can’t always trust wise words - especially when someone else controls the keys. Well played, Grandma, well played.
+
+<br>
 
 ## Blog Post: “Dogs Are Not Fungible”
 Doxe, my dog, has stopped working. I’m sad and I don’t know what to do. He was a tokenized third generation consumerized robot quadruped running an affective neural net. I can’t replace his components or upgrade his firmware without the token security key - and I don’t have the security key. Pulling the TTP chip that enforces the key access off his motherboard will fry his whole system.
@@ -233,6 +284,8 @@ I kept up payments on Doxe’s token until the company that sold him to me folde
 I guess it could have been worse. The hacked dog attacks you may have heard about before were the same model as Doxe. I wasn’t worried about those because I’m not rich or famous so who would want to weaponize my pet? But I guess in a way that’s what happened, emotionally at least. Yes I’m dramatic. That’s how it feels.
 
 But that’s not the end. Hopefully. Not yet. I’ve got together with some of the other hodlers of tokens for Doxe and his buddies at DCTRL and we’re working on a new smart contract to take control of the abandoned contract (we tried to buy it out but that didn’t work). We’ll be ready to deploy the test contract soon. If you’re a code or law hacker and can help, get in touch!
+
+<br>
 
 ## Epilogue
 It is now ever so slightly further into the future.Your team has worked together to gain much Doge, and you have taken an important step towards making the world a better place|getting rich|creating something new and exciting|addressing the injustices of the existing system|paying your debts on-chain [DELETE AS APPROPRIATE - WE COULDN’T AUTOMATE THIS PART SORRY, MAYBE THAT’S AN ICO OPPORTUNITY RIGHT THERE].
