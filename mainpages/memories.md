@@ -20,6 +20,21 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 # Dogecon memories
 
 {:.shrinkpic}
+![memories](/images/memories/bob.jpg)
+  <figcaption> The beloved Bob Summerwill's opening speech on the Healing Moon lunch ceremony </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/tarot.jpg)
+  <figcaption> Ludmila reads tarot cards for the attendees </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/mc.jpg)
+  <figcaption> Chelsea (aka msGNU) MCing the lunch ceremony </figcaption>
+<br>
+
+{:.shrinkpic}
 ![memories](/images/memories/valuepanel.jpg)
   <figcaption> The Value Panel at the DogeTalks </figcaption>
 <br>
@@ -32,6 +47,16 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 {:.shrinkpic}
 ![memories](/images/memories/workshop.jpg)
   <figcaption> Axiom Zen hosting the Cryptokitties workshop </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/antifragilitypanel.jpg)
+  <figcaption> Max, Chelsea, and (one-third of) Taylor at the Antifragility panel </figcaption>
+<br>
+
+{:.shrinkpic}
+![memories](/images/memories/workshop2.jpg)
+  <figcaption> Alex enjoying one of the workshops. Some say he likes penguins. </figcaption>
 <br>
 
 {:.shrinkpic}
@@ -51,7 +76,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 {:.shrinkpic}
 ![memories](/images/memories/garystickers.jpg)
-  <figcaption> Stickers ready for the party </figcaption>
+  <figcaption> Such printed material </figcaption>
 <br>
 
 {:.shrinkpic}
@@ -90,6 +115,11 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 <br>
 
 {:.shrinkpic}
+![memories](/images/memories/boomboxes.jpg)
+  <figcaption> Boomboxes are ready to go for the DDP </figcaption>
+<br>
+
+{:.shrinkpic}
 ![memories](/images/memories/ddp1.jpg)
   <figcaption> Crowd gathering around the rocket and the moon for the Decentralized Dance Party (DDP) </figcaption>
 <br>
@@ -100,13 +130,13 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 <br>
 
 {:.shrinkpic}
-![memories](/images/memories/dogehead2.jpg)
-  <figcaption> The sign says it all </figcaption>
+![memories](/images/memories/dogehead1.jpg)
+  <figcaption> The Doge Head on Vancouver art gallery's lion statue </figcaption>
 <br>
 
 {:.shrinkpic}
-![memories](/images/memories/dogehead3.jpg)
-  <figcaption> The Doge Head on Vancouver's art gallery's lion statue </figcaption>
+![memories](/images/memories/dogehead2.jpg)
+  <figcaption> The sign says it all </figcaption>
 <br>
 
 {:.shrinkpic}
@@ -116,7 +146,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 {:.shrinkpic}
 ![memories](/images/memories/dance.jpg)
-  <figcaption>  </figcaption>
+  <figcaption> Vero Dalo performing an interpretive dance on blockchain technology </figcaption>
 <br>
 
 {:.shrinkpic}
