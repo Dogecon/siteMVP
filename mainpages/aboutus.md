@@ -78,15 +78,39 @@ Sign up to volunteer in exchange for a ticket on our "Get Involved" page.
 
 For all media related inquiries, including becoming a media partner or scheduling an interview, please [contact carpelunam@gmail.com](mailto:carpelunam@gmail.com).
 
-Highlight of media and social media mentions:
-* [NewsBTC](https://www.newsbtc.com/2018/06/10/dogecon-vancouver-2018/){:target="_blank"}
-* [Vancouver Is Awesome](https://www.vancouverisawesome.com/2018/06/19/vancouver-celebrates-crypto-culture-with-dogecon/){:target="_blank"}
-* [Business Insider](http://markets.businessinsider.com/currencies/news/dogecon-bringing-blockchain-memes-to-vancouver-6275461){:target="_blank"}
-* [Dogecoin Subreddit Sticky Post](https://www.reddit.com/r/dogecoin/comments/8n5bpv/attention_all_shibes_and_shibettes_dogecon_a/){:target="_blank"}
+Highlight of media mentions:
 
+<div class="logoRoll">
+  <div class="logo">
+    <a href="https://www.newsbtc.com/2018/06/10/dogecon-vancouver-2018/" target="_blank">
+      <img src="/images/media/newsbtc.jpg" alt="NewsBTC">
+    </a>
+  </div>
+  <div class="logo">
+    <a href="https://www.coindesk.com/fomo-dogecon-missed-gathering-shibes/" target="_blank">
+      <img src="/images/media/coindesk.png" alt="CoinDesk">
+    </a>
+  </div>
+  <div class="logo">
+    <a href="https://www.vancouverisawesome.com/2018/06/19/vancouver-celebrates-crypto-culture-with-dogecon/" target="_blank">
+      <img src="/images/media/via.png" alt="Vancouver Is Awesome">
+    </a>
+  </div>
+  <div class="logo">
+    <a href="http://markets.businessinsider.com/currencies/news/dogecon-bringing-blockchain-memes-to-vancouver-6275461" target="_blank">
+      <img src="/images/media/bi.png" alt="Business Insider">
+    </a>
+  </div>
+  <div class="logo">
+    <a href="http://vancouverweekly.com/dogecon-vancouver-an-expression-of-acceptance-60996-2/" target="_blank">
+      <img src="/images/media/vw.png" alt="Vancouver Weekly">
+    </a>
+  </div>
+</div>
 
 <br/>
 Other useful links:
+* [Dogecoin Subreddit Sticky Post](https://www.reddit.com/r/dogecoin/comments/8n5bpv/attention_all_shibes_and_shibettes_dogecon_a/){:target="_blank"}
 * [Facebook Event](https://www.facebook.com/events/770455279819861/){:target="_blank"}
 * [Twitter Account](https://twitter.com/DogeconVan){:target="_blank"}
 * [Media Blurb](https://docs.google.com/document/d/1pHj8ZwyldIIyWvXwdJc9Ry1wlXpDa8lP0fPm5M0qsfU/edit){:target="_blank"}
