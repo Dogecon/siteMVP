@@ -366,7 +366,7 @@ html, body {
 .clouds {
   width: 100%;
   padding: 0 15%;
-  min-width: 400px;
+  min-width: 350px;
   display: flex;
   flex-direction: column;
   align-items: center; }
@@ -450,6 +450,8 @@ html, body {
       .site-footer .footer-heading .contact-list :first-child {
         margin-bottom: 5px;
         font-weight: bold; }
+      .site-footer .footer-heading .contact-list li {
+        overflow-x: auto; }
     .site-footer .footer-heading .footer-tiny {
       font-size: 0.7rem; }
   .site-footer .contact-list,
