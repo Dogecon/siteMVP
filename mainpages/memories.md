@@ -8,16 +8,60 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 <div class="tiles">
     <div style="background-image: url(../images/banners/dogequest2.png)" class="tile halfWidth columnTile postCard">
-        <h3><a href="{{ site.baseurl }}/mainpages/dogequest"> Read the DogeQuest Story </a></h3>
+        <h3><a href="{{ site.baseurl }}/mainpages/dogequest"> Read the DogeQuest story </a></h3>
     </div>
     <div style="background-image: url(../images/banners/wosk.jpg)" class="tile halfWidth columnTile postCard">
-        <h3><a href="https://www.youtube.com/channel/UCBnwMzM0XOd_Nzf6_m3Xd3A"> Watch the Recordings </a></h3>
+        <h3><a href="https://www.youtube.com/channel/UCBnwMzM0XOd_Nzf6_m3Xd3A"> Watch the recordings </a></h3>
+    </div>
+    <div style="background-image: url(../images/banners/dogehead.jpg)" class="tile halfWidth columnTile postCard">
+        <h3><a href="#memories"> See the memorable photos </a></h3>
+    </div>
+    <div style="background-image: url(../images/banners/passes.jpg)" class="tile halfWidth columnTile postCard">
+        <h3><a href="#tweets"> Revisit the memorable Tweets </a></h3>
     </div>
 </div>
 
 <br>
 
-# Dogecon memories
+# Media Highlights
+
+<div class="logoRoll">
+  <div class="logo">
+    <a href="https://www.newsbtc.com/2018/06/10/dogecon-vancouver-2018/" target="_blank">
+      <img src="/images/media/newsbtc.jpg" alt="NewsBTC">
+    </a>
+  </div>
+  <div class="logo">
+    <a href="https://www.coindesk.com/fomo-dogecon-missed-gathering-shibes/" target="_blank">
+      <img src="/images/media/coindesk.png" alt="CoinDesk">
+    </a>
+  </div>
+  <div class="logo">
+    <a href="https://betakit.com/how-dctrl-creates-the-foundation-for-vancouvers-blockchain-companies/" target="_blank">
+      <img src="/images/media/betakit.png" alt="Betakit">
+    </a>
+  </div>
+  <div class="logo">
+    <a href="https://www.vancouverisawesome.com/2018/06/19/vancouver-celebrates-crypto-culture-with-dogecon/" target="_blank">
+      <img src="/images/media/via.png" alt="Vancouver Is Awesome">
+    </a>
+  </div>
+  <div class="logo">
+    <a href="http://markets.businessinsider.com/currencies/news/dogecon-bringing-blockchain-memes-to-vancouver-6275461" target="_blank">
+      <img src="/images/media/bi.png" alt="Business Insider">
+    </a>
+  </div>
+  <div class="logo">
+    <a href="http://vancouverweekly.com/dogecon-vancouver-an-expression-of-acceptance-60996-2/" target="_blank">
+      <img src="/images/media/vw.png" alt="Vancouver Weekly">
+    </a>
+  </div>
+</div>
+
+<br>
+<br>
+
+<h1 id="memories"> Dogecon Memories</h1>
 
 {:.shrinkpic}
 ![memories](/images/memories/bob.jpg)
@@ -191,40 +235,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 <br>
 
-# In Media
-
-<div class="logoRoll">
-  <div class="logo">
-    <a href="https://www.newsbtc.com/2018/06/10/dogecon-vancouver-2018/" target="_blank">
-      <img src="/images/media/newsbtc.jpg" alt="NewsBTC">
-    </a>
-  </div>
-  <div class="logo">
-    <a href="https://www.coindesk.com/fomo-dogecon-missed-gathering-shibes/" target="_blank">
-      <img src="/images/media/coindesk.png" alt="CoinDesk">
-    </a>
-  </div>
-  <div class="logo">
-    <a href="https://www.vancouverisawesome.com/2018/06/19/vancouver-celebrates-crypto-culture-with-dogecon/" target="_blank">
-      <img src="/images/media/via.png" alt="Vancouver Is Awesome">
-    </a>
-  </div>
-  <div class="logo">
-    <a href="http://markets.businessinsider.com/currencies/news/dogecon-bringing-blockchain-memes-to-vancouver-6275461" target="_blank">
-      <img src="/images/media/bi.png" alt="Business Insider">
-    </a>
-  </div>
-  <div class="logo">
-    <a href="http://vancouverweekly.com/dogecon-vancouver-an-expression-of-acceptance-60996-2/" target="_blank">
-      <img src="/images/media/vw.png" alt="Vancouver Weekly">
-    </a>
-  </div>
-</div>
-
-<br>
-<br>
-
-# Twitter Highlights
+<h1 id="tweets"> Twitter Highlights </h1>
 
 <div class="clouds">
 
