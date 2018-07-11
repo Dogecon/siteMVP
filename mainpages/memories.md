@@ -66,6 +66,10 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 <h2 id="thurs"> Thursday: Healing Moon Launch Ceremony</h2>
 
 {:.shrinkpic}
+![memories](/images/memories/thursday.jpg)
+<br>
+
+{:.shrinkpic}
 ![memories](/images/memories/bob.jpg)
   <figcaption> <a target="_blank" href="https://bobsummerwill.com/about/">The beloved Bob Summerwill's </a> opening keynote at the Healing Moon launch ceremony. </figcaption>
 <br>
@@ -81,6 +85,10 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 <br>
 
 <h2 id="fri"> Friday: DOGETalks, #BUIDL Hall Expo, Dinner in the Sky, Crypto Speed Debates</h2>
+
+{:.shrinkpic}
+![memories](/images/memories/friday.jpg)
+<br>
 
 {:.shrinkpic}
 ![memories](/images/memories/opening.jpg)
@@ -128,6 +136,10 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 <br>
 
 <h2 id="sat"> Saturday: DogeQuest Game, State of the Decentralized Union Address, Decentralized Doge Party 2.0</h2>
+
+{:.shrinkpic}
+![memories](/images/memories/saturday.jpg)
+<br>
 
 {:.shrinkpic}
 ![memories](/images/memories/ccc.jpg)
@@ -205,6 +217,10 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 <br>
 
 <h2 id="sun"> Sunday: A Midsummer Night's Meme Rap Affair and the What Do You Meme? Art Show</h2>
+
+{:.shrinkpic}
+![memories](/images/memories/sunday.jpg)
+<br>
 
 
 {:.shrinkpic}
