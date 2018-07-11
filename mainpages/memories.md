@@ -63,174 +63,183 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 <h1 id="memories"> Dogecon Memories</h1>
 
+<h2 id="thurs"> Thursday: Healing Moon Launch Ceremony</h2>
+
 {:.shrinkpic}
 ![memories](/images/memories/bob.jpg)
-  <figcaption> The beloved Bob Summerwill's opening speech on the Healing Moon lunch ceremony </figcaption>
+  <figcaption> <a target="_blank" href="https://bobsummerwill.com/about/">The beloved Bob Summerwill's </a> opening keynote at the Healing Moon launch ceremony. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/tarot.jpg)
-  <figcaption> Ludmila reads tarot cards for the attendees </figcaption>
+  <figcaption> Ludmila Maresova reads tarot cards for the attendees. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/mc.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/derekGUMB/status/1010223024656797697">Chelsea (aka msGNU) MCing the lunch ceremony </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/derekGUMB/status/1010223024656797697">Chelsea Palmer (aka msGNU) MCing the launch ceremony. </a> </figcaption>
 <br>
+
+<h2 id="fri"> Friday: DOGETalks, #BUIDL Hall Expo, Dinner in the Sky, Crypto Speed Debates</h2>
 
 {:.shrinkpic}
 ![memories](/images/memories/opening.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/matresstester/status/1010225163428773889"> DogeTalks opening talk by Jaya Klara Brekke </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/matresstester/status/1010225163428773889"> DOGETalks opening keynote by Jaya Klara Brekke, beaming in from Europe. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/valuepanel.jpg)
-  <figcaption> The Value Panel at the DogeTalks </figcaption>
+  <figcaption> The Value Panel at DOGETalks. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/marioandmike.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/Billfodl_Wallet/status/1010292608956968961"> Mike and Mario, two of the exhibitors at the Dogecon's expo </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/Billfodl_Wallet/status/1010292608956968961">Mike Olthoff from CryptoAsylum and Mario Gibney from Blockstream, two of the exhibitors at the DOGETalks #BUIDL Expo. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/workshop.jpg)
-  <figcaption> Axiom Zen hosting the Cryptokitties workshop </figcaption>
+  <figcaption> <a target="_blank" href="https://www.axiomzen.co/">Axiom Zen </a> hosting a hands-on <a target="_blank" href="https://www.cryptokitties.co/">Cryptokitties </a> workshop. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/antifragilitypanel.jpg)
-  <figcaption> Max, Chelsea, and (one-third of) Taylor at the Antifragility panel </figcaption>
+  <figcaption> Max Borders, Chelsea Palmer, and (one-third of) Taylor Singleton-Fookes at the DOGETalks Antifragility panel. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/workshop2.jpg)
-  <figcaption> Alex enjoying one of the workshops. Some say he likes penguins. </figcaption>
+  <figcaption> Alex Lebed, sometimes known as <a target="_blank" href="https://stableunit.org/#team">Stable Unit Penguin </a>, enjoying one of the workshops. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/mattppidebate.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/matresstester/status/1010377084978384896"> Matt (B)Lockyer and Pied Piper Coin CEO debating over ETH and ETC </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/matresstester/status/1010377084978384896"> Matt (B)Lockyer and Pied Piper Coin CEO Richard Hendricks debating over ETH and ETC. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/boriscash.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/mattdlockyer/status/1010402662074863617"> BorisCoin does not scale, this is what Boris REALLY wanted </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/mattdlockyer/status/1010402662074863617"> BorisCoin does not scale-- this is what Boris REALLY wanted. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/puzzle.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/JaredHarrill/status/1010419350564679680"> Doge lovers attempt to complete a jigsaw puzzle </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/JaredHarrill/status/1010419350564679680"> Doge lovers attempt to complete an intricate jigsaw puzzle (Still working on it to this day at DCTRL Community Commons!). </a> </figcaption>
 <br>
+
+<h2 id="sat"> Saturday: DogeQuest Game, State of the Decentralized Union Address, Decentralized Doge Party 2.0</h2>
 
 {:.shrinkpic}
 ![memories](/images/memories/ccc.jpg)
-  <figcaption> Alex giving instructions to the DogeQuest teams in front of Vancouver's Chinese Cultural Center </figcaption>
+  <figcaption> Alex Salkeld giving instructions to the DogeQuest teams in front of Vancouver's Chinese Cultural Centre. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/garystickers.jpg)
-  <figcaption> Such printed material </figcaption>
+  <figcaption> Such printed material! </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/shibe.jpg)
-  <figcaption> Much curiosity </figcaption>
+  <figcaption> Much curiosity! </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/quest1.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/walid_wah/status/1010675589613670400"> A DogeQuest team attempts to solve a puzzle for the location of the next clue. </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/walid_wah/status/1010675589613670400"> A DogeQuest team attempts to solve a puzzle to receive the location of the next clue. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/rocketwosk.jpg)
-  <figcaption> The Doge rocket placed in the center of the Wosk center as people enter the venue </figcaption>
+  <figcaption> The Doge moon rocket placed in the center of the Wosk Centre for Dialogue as people begin to enter the venue. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/wosk2.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/mattdlockyer/status/1010729755245621248"> The future will not be centralized </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/mattdlockyer/status/1010729755245621248"> The future will not be centralized. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/garywosk.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/lightcoin/status/1010745450830356480"> Gary addressing the State of the Decentralized Union </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/lightcoin/status/1010745450830356480"> Gary Lachance addressing the State of the Decentralized Union. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/griffgreen.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/matresstester/status/1010736006272729088"> Griff Green joining the State of the Decentralized Union </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/matresstester/status/1010736006272729088"> Griff Green beaming in to the State of the Decentralized Union. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/dogehead0.jpg)
-  <figcaption> Scott and Mike doing their final touches on the Doge Head </figcaption>
+  <figcaption> Scott Beibin and Mike C Taylor put their final touches on the Doge Head construction. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/boomboxes.jpg)
-  <figcaption> Boomboxes are ready to go for the DDP </figcaption>
+  <figcaption> Boomboxes are ready to go for the <a target="_blank" href="http://www.theddp.com">Decentralized Dance Party. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/ddp1.jpg)
-  <figcaption> Crowd gathering around the rocket and the moon for the Decentralized Dance Party (DDP) </figcaption>
+  <figcaption> Crowd gathering around the rocket and the moon for the Decentralized Dance Party (DDP). </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/dogehead.jpg)
-  <figcaption> Moon is successfully claimed by the DDP crowd with the Doge Head </figcaption>
+  <figcaption> Moon is successfully claimed by the DDP crowd with the Doge Head. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/dogehead1.jpg)
-  <figcaption> The Doge Head on Vancouver art gallery's lion statue </figcaption>
+  <figcaption> The Doge Head on Vancouver Art Gallery's lion statue. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/dogehead2.jpg)
-  <figcaption> The sign says it all </figcaption>
+  <figcaption> The sign says it all. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/ddp2.jpg)
-  <figcaption> The party goes on </figcaption>
+  <figcaption> The Decentralized Dance Party goes on! </figcaption>
 <br>
+
+<h2 id="sun"> Sunday: A Midsummer Night's Meme Rap Affair and the What Do You Meme? Art Show</h2>
+
 
 {:.shrinkpic}
 ![memories](/images/memories/dance.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/MarksGonePublic/status/1011170878841688065"> Vero Dalo performing an interpretive dance on blockchain technology </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/MarksGonePublic/status/1011170878841688065"> Vero Dalo performing an interpretive dance on blockchain technology. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/diy.jpg)
-  <figcaption> DIY stickers and name tags </figcaption>
+  <figcaption> DIY stickers and name tag station. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/postcards.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/alex_sterk/status/1011019841849835520"> Sponsor postcards </a></figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/alex_sterk/status/1011019841849835520"> Artistically rendered sponsor postcards. </a></figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/jessicaangel.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/MarksGonePublic/status/1011402255247945728"> Jessica Angel explains her upcoming art project to a crowd chilling at the Waldorf </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/MarksGonePublic/status/1011402255247945728"> Jessica Angel explains her upcoming art project to a crowd chilling at the Waldorf. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/bus.jpg)
-  <figcaption> Bus taking the partying crowd to Stanley Park for a jump in the ocean </figcaption>
+  <figcaption> Surprise bus taking the partying crowd to Stanley Park for a jump in the ocean. </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/passes.jpg)
-  <figcaption> <a target="_blank" href="https://twitter.com/MarksGonePublic/status/1011170878841688065"> Dogecon Passes </a> </figcaption>
+  <figcaption> <a target="_blank" href="https://twitter.com/MarksGonePublic/status/1011170878841688065"> Dogecon Wristbands. </a> </figcaption>
 <br>
 
 {:.shrinkpic}
 ![memories](/images/memories/roast.jpg)
-  <figcaption> Our roast of coffee </figcaption>
+  <figcaption> Our favourite roast of coffee. </figcaption>
 <br>
 
 <br>

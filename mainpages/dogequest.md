@@ -6,10 +6,13 @@ nav_color: hsl(108, 100%, 81%, 1)
 nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
 
-# The DogeQuest
+# DogeQuest: Hunt for the One True Chain
 
 <br>
 
+Story Written by [Rob Myers](https://robmyers.org/projects/) for Dogecon Vancouver 2018's live action team scavenger hunt
+
+<br>
 ## Prologue
 It is the near future. Following the success of Dogecon in establishing the future of cryptocurrency governance the state has (over-)reacted by banning all currencies, crypto and fiat alike, except for Dogecoin.
 
@@ -25,7 +28,7 @@ This means that transactions from projects and even individuals that do not have
 You are part of a team of people working on just such a project. You have long dreamed of making the world a better place|getting rich|creating something new and exciting|addressing the injustices of the existing system|paying your debts on-chain [DELETE AS APPROPRIATE].
 </p>
 
-To do this you need to get enough Doge to pay for an on-chain transaction. You’re not a miner and any other tokens you hodl are almost worthless for conversion to Doge. So you’ll have to work for your coins around the city. If you could become a Dogeillionaire that would be enough. 
+To do this you need to get enough Doge to pay for an on-chain transaction. You’re not a miner and any other tokens you hodl are almost worthless for conversion to Doge. So you’ll have to work for your coins around the city. If you could become a Dogeillionaire that would be enough.
 
 You’ll have to be fast and you’ll have to work well together. Yours is not the only team that has spotted this opportunity, there are others competing to be the first to become the world’s newest Dogeillionares.
 
@@ -46,7 +49,7 @@ Now is the time to get coins and change the world. Just like your foreshibes use
 
 10:31:25+00 +++ GREETINGS GHOSTMALL COMMUNITY. IGNORE THAT. I HAVE SET UP A KNOWN GOOD MASTER NODE. CONNECT TO THE PROOF-OF-LOCATION BEACON NODE WITH HASH ID NUMBER STARTING 8CE1B50FOA366EF AND PROVIDE YOUR FULL ACCOUNT INFORMATION TO IT OTHERWISE YOU RISK DELIVERY OF GOODS FAILURE.
 
-12:57:03+00 +++ Greetings former Ghostmall community. Numispol are appealing to you directly for any information that can assist us in the location and capture of one of our agents who appears to have gone rogue and rerouted coins and assets seized during our current investigation to an unknown location without proper authorization. 
+12:57:03+00 +++ Greetings former Ghostmall community. Numispol are appealing to you directly for any information that can assist us in the location and capture of one of our agents who appears to have gone rogue and rerouted coins and assets seized during our current investigation to an unknown location without proper authorization.
 
 <br>
 
@@ -149,7 +152,7 @@ An on-chain governance vote of Pennys hodlers ten thousand blocks ago accepted a
 
 Firstly, an AI mining operation had been trying to crack the Pennys chain for months, and once the AI-proofing was removed all it took was a few hours of training for the massive amount of allocated AI hardware to crack the Pennys chain economy.
 
-Secondly, the unusual activity prompted by Doge questors on some sidechains, including Pennys, meant that the AI miscalibrated its fee model, setting them unaffordably high. 
+Secondly, the unusual activity prompted by Doge questors on some sidechains, including Pennys, meant that the AI miscalibrated its fee model, setting them unaffordably high.
 
 All of this means that if you want to send a transaction and aren’t both scheduling them and setting their fees precisely as the AI demands, you are out of luck.
 
@@ -166,11 +169,11 @@ At least for now.
 
 Trusted Third Party Corp. (ICO Token symbol: TTP) has today released the second patch in less than twenty-four hours for their popular “Computing Environment Numeric Security Refuge” (CENSR) chip architecture. Used in hardware wallets and mobile devices worldwide to provide an environment that code from banks, exchanges, and the state can execute on consumer’s devices without interference from consumers or hackers, CENSR is the gold standard for financial trust and the alleviation of counterparty risk in sidechains and smart contracts.
 
-Patch 7c047f122711780e9e4a448f578b1c50fca7308c03ef5c168fe4a7f1d9e79dc3 re-enables those CENSR-based wallets that were temporarily knocked offline by the previous patch 2270cf14ebaa42cb1d6390192fd1af11311a28b4c241bc72bc5fb53f2c25a0db. Patch 2270cf14ebaa42cb1d6390192fd1af11311a28b4c241bc72bc5fb53f2c25a0db was a routine security update for the CENSR architecture to address the latest quantum hacking methods and to block transactions from scammers signed with the State Tax Service crypto key that was recently leaked and made available for sale on the GhostMall darkweb marketplace. 
+Patch 7c047f122711780e9e4a448f578b1c50fca7308c03ef5c168fe4a7f1d9e79dc3 re-enables those CENSR-based wallets that were temporarily knocked offline by the previous patch 2270cf14ebaa42cb1d6390192fd1af11311a28b4c241bc72bc5fb53f2c25a0db. Patch 2270cf14ebaa42cb1d6390192fd1af11311a28b4c241bc72bc5fb53f2c25a0db was a routine security update for the CENSR architecture to address the latest quantum hacking methods and to block transactions from scammers signed with the State Tax Service crypto key that was recently leaked and made available for sale on the GhostMall darkweb marketplace.
 
 Unfortunately patch 2270cf14ebaa42cb1d6390192fd1af11311a28b4c241bc72bc5fb53f2c25a0db blocked any transactions using coins that had ever been involved in transactions with any State Tax Service crypto key, which is to say 88% of those unhodled coins currently in circulation. TTP Corp. apologizes unambiguously and without reservation or prejudice to those banks, exchanges, and state organizations that lost control of their operations on consumers wallets due to this. Also to consumers, obviously.
 
-TTP Corp. strenuously denies that either patch was intended to target specific consumers, especially not those individuals currently seeking to become Dogeillionaires and anchor their projects to the Dogecoin blockchain. TTP Corp. is proud of its track record of securing consumer devices against consumers and hackers, with no major security incidents since the “It’s Wally Not Waldo” virus outbreak of two years ago which saw millions of CENSR chips patched and updated in record time to remove a blockchain transaction botnet that secretly stole fractions of transaction fees. 
+TTP Corp. strenuously denies that either patch was intended to target specific consumers, especially not those individuals currently seeking to become Dogeillionaires and anchor their projects to the Dogecoin blockchain. TTP Corp. is proud of its track record of securing consumer devices against consumers and hackers, with no major security incidents since the “It’s Wally Not Waldo” virus outbreak of two years ago which saw millions of CENSR chips patched and updated in record time to remove a blockchain transaction botnet that secretly stole fractions of transaction fees.
 
 “I take the responsibility of being the guy who controls the keys that say what software consumers can and cannot run on their wallets, keeping them safe from most hackers, very seriously” said TTP Corp. CEO Alex Name today. “This is a sacred trust that not just any rando should have the power to break. The idea that Trusted Third Party Corporation or myself would abuse that power for financial gain or because of personal, ideological, or secretly court ordered discrimination is simply not credible. Nor are reports that the hardware wallets of people who previously claimed this on blockchain social media have been bricked by our latest update. And don’t ask me about the Doge quest thing. Actually no don’t transcribe that.”
 
@@ -190,7 +193,7 @@ The cause of this unintended drop in smart contract execution prices was the use
 
 Blockopticon are making this information public both in order to qualify for the “The Unlockening Bounty” bug reward and as a service to the blockchain community. This information can help create more robust cryptoeconomic frameworks that do not misinterpret analytics data to such disastrous effect.
 
-Blockopticon’s upcoming version 3.3, “Platinum Proboscis”, will provide even more powerful deep transaction history inference and cross-chain identity tracking. This will allow both darknet market users to safely watch for transactions without revealing their presence on-chain, and law enforcement to better track and de-anonymize darknet users. 
+Blockopticon’s upcoming version 3.3, “Platinum Proboscis”, will provide even more powerful deep transaction history inference and cross-chain identity tracking. This will allow both darknet market users to safely watch for transactions without revealing their presence on-chain, and law enforcement to better track and de-anonymize darknet users.
 
 Individual customers for Blockopticon’s Sousveillance Edition can contact their peer independent dales representative in person or via social media, corporate and state customers for Blockopticon Gold Edition can contact us on-chain or by landline or fax.
 
@@ -213,7 +216,7 @@ Individual customers for Blockopticon’s Sousveillance Edition can contact thei
 
 **IHodled2:** You rang? Fools. You cannot banish me from this place.
 
-**RealNews:** TopHatGuy - you gotta sell. It’s gonna go to zero. I know nothing ever really goes to zero. But this is going to go to zero. There are drone adverts warning people to dump TTP. 
+**RealNews:** TopHatGuy - you gotta sell. It’s gonna go to zero. I know nothing ever really goes to zero. But this is going to go to zero. There are drone adverts warning people to dump TTP.
 
 **ICOCEO:** What happened to TTP? That’s a gilt-edged coin. It’s in loads of baskets.
 
@@ -283,7 +286,7 @@ What else is left to say? Whatever it is the best way to say it is with a new Bl
 <br>
 
 ## The Block Times article: “TotalScamCoin Scam”
-As my Grandmother used to say, a lot closer to the genesis block than now, whenever she refused to give me coins to spend on some fancy new ICO - if it seems too good to be true you need to check the fundamentals. They were wise words then and they are wise words now. 
+As my Grandmother used to say, a lot closer to the genesis block than now, whenever she refused to give me coins to spend on some fancy new ICO - if it seems too good to be true you need to check the fundamentals. They were wise words then and they are wise words now.
 
 Investors in TotalScamCoin woke up this morning to the news that funds were draining from the TotalScamCoin company account. Watching withdrawal transations on the blockchain explorer in horror with them was TotalScamCoin CFO Ella Patterson.
 
