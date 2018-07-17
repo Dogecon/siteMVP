@@ -7,9 +7,10 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
 
 <div class="tiles">
+    <!--
     <div style="background-image: url(../images/banners/dogequest2.png)" class="tile halfWidth columnTile postCard">
         <h3><a href="{{ site.baseurl }}/mainpages/dogequest"> Read the DogeQuest story </a></h3>
-    </div>
+    </div> -->
     <div style="background-image: url(../images/banners/wosk.jpg)" class="tile halfWidth columnTile postCard">
         <h3><a href="https://www.youtube.com/channel/UCBnwMzM0XOd_Nzf6_m3Xd3A"> Watch the recordings </a></h3>
     </div>
